@@ -18,16 +18,20 @@ df.insert(5, "Text", ['Once upon a time....'])
 df.insert(6, "Url", ['https://www.sciencedirect.com/science/article/pii/S0898122112001113']) 
 
 print (df.head())
-
-
-for i in range(1):
+for i in range(20):
+    print(i)
     if cnt == 200:
         break
-    pub = next(search_query)
-    pub.fill()
+    pub = next(search_query)    
     time.sleep(5)
-    df = df.append({'Title' : pub.bib['title'] , 'Date': pub.bib['year'], 'Authors': pub.bib['author'], 'Abstract': pub.bib['abstract'], 'Url': pub.bib['url']} , ignore_index=True)
-    # print(pub.fill())
+    pub.fill()        
+    df = df.append({'Title' : pub.bib['title'].rstrip("\n\r"), 'Date': pub.bib['year'], 'Authors': pub.bib['author'].rstrip("\n\r"), 'Abstract': pub.bib['abstract'].rstrip("\n\r"), 'Url': pub.bib['url']} , ignore_index=True)
+    print(pub.fill())
     # if 'eprint' in pub.bib:
+# df['Authors'].apply(lambda x: x.replace('\n', ' '))
+# df['Keywords'].apply(lambda x: x.replace('\n', ' '))
+# df['Abstract'].apply(lambda x: x.replace('\n', ' '))
+# df['Text'].apply(lambda x: x.replace('\n', ' '))
 print (df.head())
+
 df.to_csv('result.csv', index = False)

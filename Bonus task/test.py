@@ -2,7 +2,9 @@ import scholarly
 import pandas as pd
 
 search_query = scholarly.search_pubs_query('Machine learning in logistics')
-pub = next(search_query).fill()
+pub = next(search_query)
+pub.fill()
+print(pub)
 
 cnt = 0
 results = []
