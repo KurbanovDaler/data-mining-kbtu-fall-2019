@@ -1,0 +1,1087 @@
+author,title,abstract,url,eprint
+J Wojtusiak and T Warden and O Herzog,Machine learning in agent-based stochastic simulation: Inferential theory and evaluation in transportation logistics,Multiagent-based simulation is an approach to realize stochastic simulation where both the behavior of the modeled multiagent system and dynamic aspects of its environment are implemented with autonomous agents. Such simulation provides an ideal environment for …,https://www.sciencedirect.com/science/article/pii/S0898122112001113,https://www.sciencedirect.com/science/article/pii/S0898122112001113
+JL Lázaro and ÁB Jiménez and A Takeda,Improving cash logistics in bank branches by coupling machine learning and robust optimization,"This paper describes how Machine Learning and Robust Optimization techniques can greatly improve cash logistics operations. Specifically, we seek to optimize the logistics followed by the different branches of a given bank. Machine Learning is used to forecast …",https://www.sciencedirect.com/science/article/pii/S0957417417306474,
+A Asadi and M Alsubaey and C Makatsoris,A machine learning approach for predicting delays in construction logistics,"Construction project management is vital for accomplishing pre-determined objectives. Despite using construction management, most of the projects do not meet original time schedule or has been delayed. Delay is one of the biggest problems faced by construction …",https://www.tandfonline.com/doi/abs/10.1080/2287108X.2015.1059920,
+B Chen and B Wang,Location selection of logistics center in e-commerce network environments,"… order hierarchy to select suitable logistics centers. Keywords: Logistics Center
+Location, Cluster Analysis, Analytic Hierarchy Process, Neural Network, Machine
+Learning 1. Introduction The location of a logistics center refers … 
+",http://article.ajnna.org/pdf/10.11648.j.ajnna.20170304.11.pdf,http://article.ajnna.org/pdf/10.11648.j.ajnna.20170304.11.pdf
+T Becker and W Intoyoad,Context aware process mining in logistics,"… Adding context awareness to unstructured event data in logistics has the potential to improve
+the results of Process Mining. Our research investigates how to apply context awareness based
+on Machine Learning in Process Mining for logistic processes and demonstrates its … 
+",https://www.sciencedirect.com/science/article/pii/S2212827117303311,https://www.sciencedirect.com/science/article/pii/S2212827117303311/pdf?md5=56612b889d67831b2d0f2eadc76e32d6&isDTMRedir=Y&pid=1-s2.0-S2212827117303311-main.pdf&_valck=1
+D Knoll and M Prüglmeier and G Reinhart,Predicting Future Inbound Logistics Processes Using Machine Learning,"Manufacturing industry is highly affected by trends of globalization and increasing dynamics of product life-cycles which results in global supply chain networks. For inbound logistics, a high variance of parts from different suppliers and locations needs to be delivered to the …",https://www.sciencedirect.com/science/article/pii/S2212827116308770,https://www.sciencedirect.com/science/article/pii/S2212827116308770/pdf?md5=4021df6b76dfa2100a6c3f2e6b1ef242&pid=1-s2.0-S2212827116308770-main.pdf&_valck=1
+B Brenner and V Hummel,Digital twin as enabler for an innovative digital shopfloor management system in the ESB Logistics Learning Factory at Reutlingen-University,"… Machine-learning, stream analytics, cognitive services, as well as interaction and information
+building blocks based on a changeable production concept in the self-controlled ESB Logistics
+Learning Factory [Fig 1] are some of the digital modules. Fig … 
+",https://www.sciencedirect.com/science/article/pii/S2351978917301579,https://www.sciencedirect.com/science/article/pii/S2351978917301579/pdf?md5=af2035134fbadb9ecc396d73b782958c&isDTMRedir=Y&pid=1-s2.0-S2351978917301579-main.pdf&_valck=1
+SY Nof and G Morel and L Monostori and A Molina and F Filip,From plant and logistics control to multi-enterprise collaboration,"… In certain situations, more specifically, the methods also require machine learning (ML) techniques
+(Morel & Grabot, 2003 … Research also needs to address information handling in sophisticated
+IMLS, Intelligent manufacturing and Logistics Systems designs, with trace-ability as a … 
+",https://www.sciencedirect.com/science/article/pii/S136757880600006X,https://hal.archives-ouvertes.fr/hal-00092381/document
+RY Zhong and GQ Huang and S Lan and QY Dai and X Chen…,A big data approach for logistics trajectory discovery from RFID-enabled production data,"… For example, the discovered pattern may be a curve which presents the skill improvement from
+a specific logistics operator (termed learning curve). The learning curve will be worked out by
+machine learning or regression methods and then interpreted by a mathematic function … 
+",https://www.sciencedirect.com/science/article/pii/S0925527315000481,http://www.samiagamoura.com/_media/2.-paper-big-data-logistics.pdf
+FQ Lauzon,An introduction to deep learning,"… Useful Representations in a Deep Network with a Local Denoising Criterion,"" Journal of Machine
+Learning Research, vol. 11, 2010. ENCODER 1 ENCODER 2 INPUT E E SUPERVISED TRAINING
+1. Initialize encoder weights with pretraining results 2. Add logistics layer 3 … 
+",https://ieeexplore.ieee.org/abstract/document/6310529/,https://hal.archives-ouvertes.fr/hal-01352061/document
+TA Estlin and RJ Mooney,Multi-strategy learning of search control for partial-order planning,"… In both the blocksworld and logistics domains, Scope sig- ni cantly improved planner performance;
+Scope also outperformed a competing method based only on EBL. References Barrett, A., and
+Weld, D. 1994 … On-line learning from search failure. Machine Learning 15:69{117 … 
+",http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.4.133&rep=rep1&type=pdf,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.4.133&rep=rep1&type=pdf
+JD Kasarda,Logistics is about competitiveness and more,"… services space. With big data, machine learning, and predictive analytics becoming
+logistics “toolbox” essentials, and end-to-end solutions moving in-house, the human
+resource chemistry of logistics will have to change. A major … 
+",https://pdfs.semanticscholar.org/9149/05bf5d6077f03fea9546e1abe83d15a81e1e.pdf,https://pdfs.semanticscholar.org/9149/05bf5d6077f03fea9546e1abe83d15a81e1e.pdf
+DK McIver and MA Friedl,Estimating pixel-scale land cover classification confidence using nonparametric machine learning methods,"… 9, SEPTEMBER 2001 1959 Estimating Pixel-Scale Land Cover Classification Confidence Using
+Nonparametric Machine Learning Methods … We present a method to estimate pixel-scale land
+cover classification confidence using nonparametric machine learning methods … 
+",https://ieeexplore.ieee.org/abstract/document/951086/,
+H Rau and YT Fang,Conflict resolution of product package design for logistics using the triz method,"This paper is focused on the global logistics packaging issues at notebook new product introduction (NPI) stage. This study resolves the conflict problem of design attributes when considering product packaging design for logistics (DFL). First of all, this paper surveys …",https://ieeexplore.ieee.org/abstract/document/5212618/,https://www.researchgate.net/profile/Fang_Yi-Tse/publication/224581508_Conflict_resolution_of_product_package_design_for_logistics_using_the_TRIZ_method/links/0c960530ed2d4a1863000000.pdf
+B Mikavicaa…,Big data: challenges and opportunities in logistics systems,"… It encompasses many research topics, disciplines and it investigates a variety of techniques and
+theories from different fields, including data mining, machine learning, informational retrieval,
+analysis etc. Big Data has indubitably become important trend in logistics systems … 
+",https://pdfs.semanticscholar.org/27ed/f435fb544f95700bff34ab8c7ffe3d992b27.pdf,https://pdfs.semanticscholar.org/27ed/f435fb544f95700bff34ab8c7ffe3d992b27.pdf
+A Kinra and RR Mukkamala and R Vatrapu,Methodological demonstration of a text analytics approach to country logistics system assessments,"… analyst. Implications are discussed and future work is outlined. Keywords. Logistics
+Transport system evaluation Big data analytics Data mining Text mining Machine
+learning. Download conference paper PDF. 11.1 Introduction … 
+",https://link.springer.com/chapter/10.1007/978-3-319-45117-6_11,https://www.researchgate.net/profile/Raghava_Rao_Mukkamala/publication/308102892_Methodological_Demonstration_of_a_Text_Analytics_Approach_to_Country_Logistics_System_Assessments/links/5a25b8120f7e9b71dd09cdfc/Methodological-Demonstration-of-a-Text-Analytics-Approach-to-Country-Logistics-System-Assessments.pdf
+XL Tang,Study on selection of logistics supplier based on support vector machine,"The selection of logistics supplier is an important link in supply chain management, while the assessment of capacity of logistics supplier help client select logistics supplier in a better way. In view of the assessment and selection, this article proposes supplier assessment and …",https://ieeexplore.ieee.org/abstract/document/5212430/,
+ZK Lin and LL Gao and X Guo,The reverse logistics network design of drugs,"As a special kind of goods, drugs play an important role in curing diseases and keeping people healthy. However, drugs which lose its effect and has defect in currency will do great harm to people's healthy and social stability, thus it is necessary to recall the drugs. The …",https://www.infona.pl/resource/bwmeta1.element.ieee-art-000005581089,
+C Jiang and H Zhang and Y Ren and Z Han…,Machine learning paradigms for next-generation wireless networks,"… TABLE 1. Supervised machine learning algorithms. Category Learning techniques Key
+characteristics Application in 5G Supervised learning Regression models • Estimate the
+variables' relationships • Linear and logistics regression Energy learning [5] … 
+",https://ieeexplore.ieee.org/abstract/document/7792374/,https://eprints.soton.ac.uk/403861/1/WirelessMag_Hanzo-rev1.pdf
+J Tian and M Gao and S Zhou,The Research of Building Logistics Cost Forecast Based on Regression Support Vector Machine,"… The special predominance of SVM in resolve limited samples, non-linear function and
+multidimensional pattern recognition make it become a kind of excellent machine learning method
+[7]. Considering the building logistics cost forecasting is a complicated nonlinear problem … 
+",https://ieeexplore.ieee.org/abstract/document/5375843/,
+YC Huang and B Selman and H Kautz,Learning declarative control rules for constraint-based planning,"… planning is a hard combi- natorial problem that arises in tasks such as robot control, software
+verification, and logistics scheduling … Research in machine learning have long studied the problem
+of automatically creating efficient planners by learning domain-specific rules or cases … 
+",http://www.cs.cornell.edu/selman/cs672/readings/00.icml.learning.pdf,http://www.cs.cornell.edu/selman/cs672/readings/00.icml.learning.pdf
+RY Zhong and S Lan and C Xu and Q Dai and GQ Huang,Visualization of RFID-enabled shopfloor logistics Big Data in Cloud Manufacturing,"… rules that are used for long-term strategic decisions such as logistics task assignments, promotion
+strategy, and buffer layout design. Two important visualizations are considered. For the visu-
+alization of operator performance, statistics and machine learning approaches are … 
+",https://link.springer.com/article/10.1007/s00170-015-7702-1,https://www.researchgate.net/profile/Ray_Zhong/publication/283194201_Visualization_of_RFID-Enabled_Shopfloor_Logistics_Big_Data_in_Cloud_Manufacturing/links/5631e88d08ae13bc6c358951.pdf
+X Xi and Z Wei and R Xiaoguang and W Yijie…,A comprehensive evaluation of air pollution prediction improvement by a machine learning method,"Urban air pollution prediction is one of the most important tasks in the treatment of urban air pollution. Due to the disadvantage that source list updated not in time for WRF-Chem which is a numeric model, the prediction result may be not good enough. In this paper, we take full …",https://ieeexplore.ieee.org/abstract/document/7367615/,
+N Han and XJ Ji,Optimization of logistics distribution routing problem based on improved ant colony algorithm,"The optimization of logistics distribution routing, which played an important role in the logistics distribution system, needed to be solved by a fast and effective algorithm. Based on analyzing the optimization question of logistics distribution routing and the basic model of …",https://ieeexplore.ieee.org/abstract/document/5580646/,
+D Biskup,Single-machine scheduling with learning considerations,"… 1996b TCE Cheng, C Oguz, XD QiDue-date assignment and single machine scheduling with …
+of job completion times about a common due date. Naval Research Logistics Quarterly, 28 … 1994
+C.-L Li, TCE ChengAn economic production quantity model with learning and forgetting … 
+",https://www.sciencedirect.com/science/article/pii/S037722179800246X,https://www.academia.edu/download/58890131/1-s2.0-S037722179800246X-main.pdf
+X Wu and J Liu and H Jin and L Guo,The Design and Analysis of Logistics Information System Based on Data Mining,"… Data mining involves a multi-disciplinary technology such as: Database technology, statistics,
+machine learning, high performance computing, pattern recognition … With the increase in the level
+of logistics information, the logistics strategy has changed from internal integration to … 
+",https://link.springer.com/chapter/10.1007/978-3-642-31003-4_9,
+S Earley,"Analytics, machine learning, and the internet of things","… driver auto-delegate his tasks and make him concentrate more on his driving.”7) Optimization
+algorithms use machine learning mechanisms to … Classes of applica- tions in industrial automation,
+logistics and transportation, pow- er grid and energy systems, traf- fic management … 
+",https://ieeexplore.ieee.org/abstract/document/7030173/,http://fac.comtech.depaul.edu/yhwang1/Articles_KHU/article_2.pdf
+C Alias and Ç Özgür and B Noche,Monitoring production and logistics processes with the help of industrial image processing,"… monitoring tasks. The present paper presents an insight into IIP applications in
+production and logistics. Keywords: Production, Logistics, Industrial Image Processing,
+Machine Learning, Process, Monitoring INTRODUCTION Travel … 
+",https://www.pomsmeetings.org/ConfPapers/065/065-1743.pdf,https://www.pomsmeetings.org/ConfPapers/065/065-1743.pdf
+AKR Venkatapathy and H Bayhan and F Zeidler…,Human machine synergies in intra-logistics: Creating a hybrid network for research and technologies,"… to consume the data produced and also to combine all the data to arrive at new insights using
+concepts from machine learning and deep learning networks … With Industry 4.0, the technologies,
+services and methods used in industrial production and logistics are changing … 
+",https://ieeexplore.ieee.org/abstract/document/8104684/,https://annals-csis.org/Volume_11/drp/pdf/253.pdf
+MI Jordan and TM Mitchell,"Machine learning: Trends, perspectives, and prospects","… The effect of machine learning has also been felt broadly across computer science and across
+a range of industries concerned with data-intensive issues, such as consumer services, the
+diagnosis of faults in complex systems, and the control of logistics chains … 
+",https://science.sciencemag.org/content/349/6245/255.short,https://cs.uwaterloo.ca/~y328yu/mycourses/480-2018/readings/JordanMitchell.pdf
+D Tamagawa and E Taniguchi and T Yamada,Evaluating city logistics measures using a multi-agent model,"… together has large environmental effects, and leads to an acceptable environment
+for all stakeholders. © 2010 Elsevier Ltd. Keywords: City logistics; urban freight transport;
+stakeholder; multi-agent model; Q-learning 1. Introduction … 
+",https://www.sciencedirect.com/science/article/pii/S1877042810010670,https://www.sciencedirect.com/science/article/pii/S1877042810010670/pdf?md5=d5b621d6df24896148c998dde504b7a7&pid=1-s2.0-S1877042810010670-main.pdf&_valck=1
+ER Sparks and A Talwalkar and V Smith…,MLI: An API for distributed machine learning,"Page 1. MLI: An API for Distributed Machine Learning Evan R. Sparksa Ameet Talwalkara Virginia
+Smitha Jey Kottalama … I. INTRODUCTION The recent success stories of machine learning (ML)
+driven applications have created an increasing demand for scalable ML solutions … 
+",https://ieeexplore.ieee.org/abstract/document/6729619/,https://arxiv.org/pdf/1310.5426
+J Wen and L He and F Zhu,Swarm robotics control and communications: Imminent challenges for next generation smart logistics,"… Smart logistics will benefit mainly from automation recognition and machine learning by employing
+cutting-edge AI technologies. For instance, one face recognition algorithm named GaussianFace
+now outperforms humans for the first time in terms of recognition accuracy [12] … 
+",https://ieeexplore.ieee.org/abstract/document/8419187/,
+U Meissen and S Pfennigschmidt…,Situation-based message rating in information logistics and its applicability in collaboration scenarios,"… We propose to enhance cooperation support by integrating in- formation logistics services … Machine
+learning and text classification are important to us because our approach applies text classification
+as an automatic relevance estimate between messages and user- defined … 
+",https://ieeexplore.ieee.org/abstract/document/1333410/,
+TA Estlin and RJ Mooney,Learning to improve both efficiency and quality of planning,"… First, we would like to experiment with differ- ent types of quality metrics. We are currently working
+on implementing a version of the logistics domain where actions have different execution costs …
+On-line learning from search failure. Machine Learning, 15:69 117, 1994 … 
+",http://www.cs.utexas.edu/users/ai-lab/pubs/scope-ijcai-97.pdf,http://www.cs.utexas.edu/users/ai-lab/pubs/scope-ijcai-97.pdf
+A Fern and SW Yoon and R Givan,Learning Domain-Specific Control Knowledge from Random Walks.,"… Sec- ond, in LEARNPOLICY(), guided by the training data from the first step, we use standard
+machine learning techniques for cost-sensitive … to “bootstrap” API, we were able to use
+IMPROVEPOLICY to uncover good policies for the blocks world, simplified logistics world (no … 
+",https://www.aaai.org/Papers/ICAPS/2004/ICAPS04-024.pdf,https://www.aaai.org/Papers/ICAPS/2004/ICAPS04-024.pdf
+L Monostori and P Valckenaers and A Dolgui and H Panetto…,Cooperative control in production and logistics,"… Standard results as well as recent advances from control theory, through cooperative game
+theory, distributed machine learning to holonic systems, cooperative enterprise modeling,
+system integration, and autonomous logistics processes are surveyed … 
+",https://www.sciencedirect.com/science/article/pii/S1367578815000024,https://arxiv.org/pdf/1506.05608
+PG Welch and Z Kemény and A Ekárt…,Application of model-based prediction to support operational decisions in logistics networks,"… 257398,“Advanced predictive-analysis-based decision- support engine for logistics”
+http://advance-logistics. eu/. REFERENCES [1] C. Bishop, Pattern recognition and
+machine learning, chapter Introduc- tion, 41, Springer, 1st edn., 2006 … 
+",https://www.sfbtr8.spatial-cognition.de/papers/SFB_TR8Rep031-08_2012.pdf#page=33,https://www.sfbtr8.spatial-cognition.de/papers/SFB_TR8Rep031-08_2012.pdf#page=33
+T Croonenborghs and J Ramon and H Blockeel…,Online Learning and Exploiting Relational Models in Reinforcement Learning.,"… IJCAI-07 729 Page 5. Figure 5: Logistics Figure 6: Blocks world with the on(A, B) goal Finally,
+we evaluate the robustness of our approach … In Proc. of the 15th Int. Conf. on Machine Learning,
+pages 28–36, 1998. [Davies et al., 1998] S. Davies, A. Ng, and A. Moore … 
+",https://www.aaai.org/Papers/IJCAI/2007/IJCAI07-116.pdf,https://www.aaai.org/Papers/IJCAI/2007/IJCAI07-116.pdf
+L Barreto and A Amaral and T Pereira,Industry 4.0 implications in logistics: an overview,"… increase growth of wireless embedded sensors and actuators are contributing to the development
+of several new applications – in areas such as production processes, transportation system,
+logistics services, health services, autonomous vehicles, machine learning and smart … 
+",https://www.sciencedirect.com/science/article/pii/S2351978917306807,https://www.sciencedirect.com/science/article/pii/S2351978917306807/pdf?md5=0cb2ae3586f01ca4f2e037934a77d841&pid=1-s2.0-S2351978917306807-main.pdf
+P de Toledo and PM Rios and A Ledezma…,Predicting the outcome of patients with subarachnoid hemorrhage using machine learning techniques,"… Objective: To use machine learning techniques to build a model of outcome predic- tion that
+makes the knowledge discovered from the data explicit and communicable to domain experts …
+machine learning techniques to achieve improved results. [26] … 
+",https://ieeexplore.ieee.org/abstract/document/4814677/,https://www.researchgate.net/profile/Alfonso_Lagares/publication/24280231_Predicting_the_Outcome_of_Patients_With_Subarachnoid_Hemorrhage_Using_Machine_Learning_Techniques/links/540b923a0cf2df04e7509c52/Predicting-the-Outcome-of-Patients-With-Subarachnoid-Hemorrhage-Using-Machine-Learning-Techniques.pdf
+Y Kayikci,Sustainability impact of digitization in logistics,"… Logistics gains a greater vision in terms of mass adoption of smart and connected digital
+technologies and applications (eg mobile, cloud, sensors, data analytics, machine learning,
+blockchain, IoT) and enhancing vertical and horizontal integration among the supply chain … 
+",https://www.sciencedirect.com/science/article/pii/S2351978918302245,https://www.sciencedirect.com/science/article/pii/S2351978918302245/pdf?md5=2f20557beae7129685c8b33dd3cb0165&pid=1-s2.0-S2351978918302245-main.pdf
+S Jiménez and T De La Rosa and S Fernández…,A review of machine learning for automated planning,"… Logistics applications need to handle hundreds of objects at the same time as hundreds
+of vehicles and locations (Florez et al., 2010), which makes computing evaluation
+functions in every search node unfeasible … 2.2. Machine learning … 
+",https://www.cambridge.org/core/journals/knowledge-engineering-review/article/review-of-machine-learning-for-automated-planning/F641360D1F0461D0B323C8A299DBE61E,
+A Fink and F Rothlauf,"Advances in computational intelligence in transport, logistics, and supply chain management","… Proper performance of the logistics functions can contribute both to lower costs and
+to enhanced customer service … CI embodies neural networks, fuzzy logic, evolutionary
+computation, local search, and machine learning approaches … 
+",https://books.google.com/books?hl=ja&lr=lang_ja|lang_en&id=n1xuCQAAQBAJ&oi=fnd&pg=PR1&dq=Machine+learning+in+logistics&ots=TkfjTKpWKL&sig=cCw9T7g7rlG4y4I33dCXbEGNgiA,
+OL Mangasarian,Machine learning via polyhedral concave minimization,"Page 1. Machine Learning via Polyhedral Concave Minimization … Abstract. Two fundamental
+problems of machine learning, misclassification minimization [10, 24, 18] and feature selection,
+[25, 29, 14] are formulated as the minimization of a concave function on a polyhedral set … 
+",https://link.springer.com/chapter/10.1007/978-3-642-99789-1_13,https://minds.wisconsin.edu/bitstream/handle/1793/65319/95-20.pdf?sequence=1
+B Michelberger and J Wurzer and A Reisch and M Hipp…,iCare: intelligent medical information logistics,"… Keywords information logistics, semantic technology, healthcare … purpose, algorithms from the
+fields of data mining, text mining (eg, text preprocessing, linguistic preprocessing, clustering,
+classification, information extrac- tion), pattern-matching, and machine learning (eg, super … 
+",https://dl.acm.org/citation.cfm?id=2539201,http://dbis.eprints.uni-ulm.de/981/1/iiWAS%20Paper_Mi.pdf
+M Veluscek,Global supply chain optimization: a machine learning perspective to improve caterpillar's logistics operations,Supply chain optimization is one of the key components for the effective management of a company with a complex manufacturing process and distribution network. Companies with a global presence in particular are motivated to optimize their distribution plans in order to …,https://bura.brunel.ac.uk/handle/2438/13050,https://bura.brunel.ac.uk/bitstream/2438/13050/1/FulltextThesis.pdf
+E Ilie-Zudor and A Ekárt and Z Kemeny…,Advanced predictive-analysis-based decision support for collaborative logistics networks,"… ADVANCE relies on machine learning and cognitive modelling to deliver a practical solution
+that is both specialized to the logistics industrial case study and also made of independent
+components that could be used in entirely different domains, where the problems to be solved … 
+",https://www.emeraldinsight.com/doi/abs/10.1108/SCM-10-2014-0323,https://www.emeraldinsight.com/doi/pdfplus/10.1108/SCM-10-2014-0323
+RJ Wang and YH Ru and XX Zhu,The quantitative analysis abased on logistics integration degree,"With the development of economy, in recent years, China's logistics infrastructure has been the rapidly developed, at the same time; there have been blind investment and competition with each other, the logistics infrastructure facilities tendency. For the situation of many …",https://www.infona.pl/resource/bwmeta1.element.ieee-art-000005212663,
+B Yang,Machine learning-based evolution model and the simulation of a profit model of agricultural products logistics financing,"An agricultural products logistics and financial warehousing business mainly involves a tripartite of agricultural production and processing enterprises, third-party logistics enterprises and financial institutions and enables the three parties to achieve win–win …",https://link.springer.com/article/10.1007/s00521-019-04072-5,
+P Giribone and A Orsoni and R Revetria,Hybrid decision support for the logistics of refuse collection in a large metropolitan area,"… [10] AG Bruzzone, P. Giribone, DSS & Simulation for Logistics: Moving Forward for a Distributed,
+Real-Time, Interactive Simulation Environment, Proc.of … [14] DE Goldberg, Genetic algorithms
+in search, optimization, and machine learning (Reading, MA: Addison-Wesley, 1989) … 
+",http://www.actapress.com/PDFViewer.aspx?paperId=25382,
+H Liu and Y Peng,Research of mobile business integrated with RFID technology in the logistics pallet leasing,"At present, more and more enterprises have been dedicated in introducing application of radio frequency identification (RFID) technology into their work flow or logistics management or goods tracking, etc. In this paper, it presents an application framework of a RFID prototype …",https://ieeexplore.ieee.org/abstract/document/5212622/,
+H Başligil and SS Kara and P Alcan and B Özkan…,A distribution network optimization problem for third party logistics service providers,"… A distribution network optimization problem for third party logistics service providers … Abstract.
+Third party logistics service providers (3PLs) have an important role in supply chain management.
+Increasing cooperation with 3PLs is expanding in today's business environment … 
+",https://www.sciencedirect.com/science/article/pii/S095741741100577X,http://www.academia.edu/download/52446961/j.eswa.2011.04.06120170403-31932-njhmup.pdf
+K Kim and H Kim and SK Kim and JY Jung,i-RM: An intelligent risk management framework for context-aware ubiquitous cold chain logistics,"… when frequent updates occur in contexts, risk detection, and response judgment according to
+the changes in logistics policies, i … Specifically, further sophisticated construction of EPL statements
+by utilizing machine learning techniques such as case-based reasoning is worth to … 
+",https://www.sciencedirect.com/science/article/pii/S0957417415007642,https://pdfs.semanticscholar.org/9a73/e7c28ffb6658345d87a9ecb3a06747ab4650.pdf
+P Larranaga and B Calvo and R Santana…,Machine learning in bioinformatics,"This article reviews machine learning methods for bioinformatics. It presents modelling
+methods, such as supervised classification, clustering and probabilistic.
+",https://academic.oup.com/bib/article-abstract/7/1/86/264025,https://academic.oup.com/bib/article-pdf/7/1/86/23992771/bbk007.pdf
+D Xiaoqin and L Qinghua and H Jianjun,Applying hierarchical reinforcement learning to computer games,"… 929 Proceedings of the IEEE International Conference on Automation and Logistics Shenyang,
+China August 2009 … In fact, creating intelligent NPCs has attracted attention in AI and machine
+learning research: for example, cognition- based methods such as Laird's Soarbot [8 … 
+",https://ieeexplore.ieee.org/abstract/document/5262787/,
+PB Mirchandani and JC Smith and HJ Greenberg,"New Directions in Informatics, Optimization, Logistics, and Production","… His research interests are in data and Web mining, machine learning, social computing, artificial
+intelligence, and the investigation of problems that arise in many real-world applications with
+high-dimensional data of disparate … Alvaro Lorca (“Humanitarian Logistics”) is an … 
+",https://pubsonline.informs.org/doi/pdf/10.1287/educ.1120.contrib,
+S Meister and W Deiters,Information logistics solutions to cope with big data challenges in AAL and Telemedicine,"… paper is to introduce technologies like Complex Event Processing (CEP) as well as Data Mining
+(DM) and Machine Learning (ML) to develop approaches to cope with the problem of information
+overload in health care according to the principles of Information Logistics (ILOG) … 
+",https://link.springer.com/chapter/10.1007/978-3-319-11866-6_6,
+J Oleśków-Szłapka and P Lubiński,New technology trends and solutions in logistics and their impact on processes,"… New technologies impact almost every industry, and logistics is no exception … 5. Advanced Machine
+Learning- in advanced machine learning, deep neural nets (DNNs) move beyond classic
+computing and information management to create systems that can autonomously learn … 
+",https://www.researchgate.net/profile/Joanna_Oleskow-Szlapka/publication/316818140_New_Technology_Trends_and_Solutions_in_Logistics_and_Their_Impact_on_Processes/links/5977927faca27203ecbddf43/New-Technology-Trends-and-Solutions-in-Logistics-and-Their-Impact-on-Processes.pdf,https://www.researchgate.net/profile/Joanna_Oleskow-Szlapka/publication/316818140_New_Technology_Trends_and_Solutions_in_Logistics_and_Their_Impact_on_Processes/links/5977927faca27203ecbddf43/New-Technology-Trends-and-Solutions-in-Logistics-and-Their-Impact-on-Processes.pdf
+MM Veloso and JG Carbonell,Toward scaling up machine learning: A case study with derivational analogy in prodigy,"… AIRPLANE o2 p!7 a5) TOWARD SCALING UP MACHINE LEARNING 259 0) f 60000 . è I 50000
+I ·§ 40000 30000 20000 * - Without Analogy * With Analogy 10000 200 Number of Problems
+Figure 8-16. Cumulative running time for 200 problems in the logistics domains with and … 
+",https://www.sciencedirect.com/science/article/pii/B9781483207742500135,https://pdfs.semanticscholar.org/a5a4/da86ad4c4cd913ad619ea36a3b9eca25556f.pdf
+K Greene and DG Cooper and AL Buczak…,Cognitive agents for sense and respond logistics,"… However, the optimiza- tion of logistics tasks in a sub-battalion NCW environment is an
+optimization problem with a moving target, aka a dynamic optimization problem. Machine
+learning has proven to be a good tool to deal with such a moving target … 
+",https://link.springer.com/chapter/10.1007/11683704_9,https://www.researchgate.net/profile/Kshanti_Greene/publication/228974499_Cognitive_Agents_for_Sense_and_Respond_Logistics/links/00b7d52d5a7cf7a1e9000000.pdf
+RA Sutrisnowati and H Bae and M Song,Bayesian network construction from event log for lateness analysis in port logistics,"… algorithms (Van der Aalst et al., 2004), for example, although capable of learning structured
+workflow … Although our notion of lateness relates to port logistics, it is a general term that … & Yang,
+2012), rule-based methods (Aarabi & He, 2012), Support Vector Machine (SVM) (Fronza … 
+",https://www.sciencedirect.com/science/article/pii/S0360835214003647,
+A Tripathy and A Agrawal and SK Rath,Classification of sentiment reviews using n-gram machine learning approach,"… Salvetti et.al., have discussed on Overall Opinion Polarity (OvOp) concept using machine learning
+algorithms such as NB and Markov model for classification Salvetti, Lewis, and … This idea allows
+the system to act as a probability model which is linear in logistics scale … 
+",https://www.sciencedirect.com/science/article/pii/S095741741630118X,https://www.researchgate.net/profile/Abinash_Tripathy/publication/299420336_Classification_of_Sentiment_Reviews_using_N-gram_Machine_Learning_Approach/links/59f05ac00f7e9beabfc6744a/Classification-of-Sentiment-Reviews-using-N-gram-Machine-Learning-Approach.pdf
+J Schuhmacher and V Hummel,Decentralized control of logistic processes in cyber-physical production systems at the example of ESB Logistics Learning Factory,"… Over the next years the digital and physical learning factory environment of the LLF will be
+gradually … the LLF are the development of decentralized control methods for production, assembly
+and logistics processes as well as innovative human-machine collaboration methods … 
+",https://www.sciencedirect.com/science/article/pii/S2212827116302827,https://www.sciencedirect.com/science/article/pii/S2212827116302827/pdf?md5=92abafab502e93b7076db2bff8beaae4&pid=1-s2.0-S2212827116302827-main.pdf&_valck=1
+F Wang and Z Shen and F Yu,Research of Realizing Logistics Scheduling Agility on the Basis of Semi-Hierarchical Control Mechanisma,"For the difficulties happened in the research of logistics scheduling optimization problems and in the system design of agility scheduling DSS, and for the purpose of reducing the complexity and improving the solving efficiency of research problems, the paper proposes a …",https://ieeexplore.ieee.org/abstract/document/4028166/,
+C Shen and X Wang,A Model for Financial Distress Early-Warning for Logistics Enterprises Using Support Vector Machine,"… The warned Inventory turnover ratio 0.2783 The risky Exterior environment changes 0.3335 4.
+CONCLUSIONS As an effective machine learning method, SVM can deal with complexity and
+nonlinear of logistics finance data, just showed and discussed above … 
+",https://ascelibrary.org/doi/abs/10.1061/41139(387)22,
+A Khan and B Baharudin and LH Lee and K Khan,A review of machine learning algorithms for text-documents classification,"Page 6. A Review of Machine Learning Algorithms for Text-Documents Classification Aurangzeb
+Khan, Baharum Baharudin, Lam Hong Lee*, Khairullah khan Department of Computer and
+Information Science, Universiti Teknologi PETRONAS, Tronoh, Malaysia … 
+",http://www.academia.edu/download/30773019/jait0101.pdf#page=6,http://www.academia.edu/download/30773019/jait0101.pdf#page=6
+B Haid,Medical care at winter olympic games: logistics,"… Download PDF Cite This Citation. Haid B. Medical Care at Winter Olympic Games: Logistics.
+JAMA. 1972;221(9):990–992 … Purchase access. Subscribe to JN Learning for one year. Buy this
+activity. Sign in to download free article PDFs. Sign in to access your subscriptions … 
+",https://jamanetwork.com/journals/jama/article-abstract/344131,
+J Perols,Financial statement fraud detection: An analysis of statistical and machine learning algorithms,"… Such machine learning studies have found that classification algorithms like SVM (Fries et al …
+mining research in domains with imbalanced datasets mentioned earlier), six algorithms were
+selected from Weka: (1) J48, (2) SMO, (3) MultilayerPerceptron, (4) Logistics, (5) stacking … 
+",http://www.aaajournals.org/doi/abs/10.2308/ajpt-50009,https://aaapubs.org/doi/full/10.2308/ajpt-50009
+T Wuest and C Irgens and KD Thoben,An approach to monitoring quality in manufacturing using supervised machine learning on product state data,"… Y) and D (country Z). As this adds further complexity to the manufacturing itself by involving
+additional logistics and information … The approach to utilize combined cluster analysis and
+supervised machine learning on product state data described in the following “Supervised … 
+",https://link.springer.com/article/10.1007/s10845-013-0761-y,
+Y Wang and F Caron and J Vanthienen and L Huang…,Investigating service behavior variance in port logistics from a process perspective,"… 62, 795–810 (2011)CrossRefGoogle Scholar. 9. Roh, HS, Lalwani, CS, Naim, MM: Modelling
+a port logistics process using the structured analysis and design technique … Kotsiantis, S.,
+Zaharakis, I., Pintelas, P.: Supervised machine learning: a review of classification techniques … 
+",https://link.springer.com/chapter/10.1007/978-3-319-06257-0_25,
+V Andersson,Machine Learning in Logistics: Machine Learning Algorithms: Data Preprocessing and Machine Learning Algorithms,"Data Ductus is a Swedish IT-consultant company, their customer base ranging from small startups to large scale cooperations. The company has steadily grown since the 80s and has established offices in both Sweden and the US. With the help of machine learning …",http://www.diva-portal.org/smash/record.jsf?pid=diva2:1118764,http://www.diva-portal.org/smash/get/diva2:1118764/FULLTEXT02
+JL Ambite and CA Knoblock and S Minton,Learning Plan Rewriting Rules.,"… and a restricted version of the logistics domain from the AIPS98 planning competition … The rules
+machine-swap and se-14 in Figure 9 show a limitation of our current learning algorithm, namely,
+that it does not learn over the resource specifications in the operators … 
+",https://www.aaai.org/Papers/AIPS/2000/AIPS00-001.pdf,https://www.aaai.org/Papers/AIPS/2000/AIPS00-001.pdf
+WC Lee,A note on deteriorating jobs and learning in single-machine scheduling problems,"… Biskup, D., (1999), “Single-Machine Scheduling with Learning Considerations,” European Journal
+of Operational Research … Kubiak, W. and S. van de Velde, (1998), “Scheduling Deteriorating Jobs
+to Mini- mize Makespan,” Naval Research Logistics, 45, 511-523 … 
+",https://www.researchgate.net/profile/Wen-Chiung_Lee/publication/228584639_A_note_on_deteriorating_jobs_and_learning_in_single-machine_scheduling_problem/links/0fcfd50ce9bf4d6463000000.pdf,https://www.researchgate.net/profile/Wen-Chiung_Lee/publication/228584639_A_note_on_deteriorating_jobs_and_learning_in_single-machine_scheduling_problem/links/0fcfd50ce9bf4d6463000000.pdf
+G Wang and X He,A self-learning model under uncertain condition,"… It is a very difficult problem in machine learning to learn uncertain knowledge automatically without …
+of Posts and Telecommunications,Chongqing 400065,PRChina);A flexible self-learning model
+based … bin1,2,WANG Yan2,3(1.E-commerce and Modern Logistics Lab,Chongqing … 
+",http://en.cnki.com.cn/Article_en/CJFDTotal-RJXB200306009.htm,
+DT Pham and AA Afify,Machine-learning techniques and their applications in manufacturing,"… View. Explore More. Machine-learning techniques and their applications in manufacturing. Show
+all authors DT Pham 1 DT Pham. 1Manufacturing Engineering Centre, Cardiff University, Cardiff,
+UK See all articles by this author Search Google Scholar for this author … 
+",https://journals.sagepub.com/doi/abs/10.1243/095440505X32274,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1013.5861&rep=rep1&type=pdf
+K Ellis and S Godbole and S Marshall and G Lanckriet…,"Identifying active travel behaviors in challenging environments using GPS, accelerometers, and machine learning algorithms","… Identifying active travel behaviors in challenging environments using GPS, accelerometers, and
+machine learning algorithms … We compared the performance of several machine learning
+algorithms and chose a random forest algorithm to classify the transportation mode … 
+",https://www.frontiersin.org/articles/10.3389/fpubh.2014.00036,https://www.frontiersin.org/articles/10.3389/fpubh.2014.00036
+PW Fink and TF Kennedy and L Rodriguez and JL Broyan…,Autonomous logistics management systems for exploration missions,"… a vehicle are complicated by many factors, including the desire to rely only on passive (no-battery)
+RFID tags, restrictions on RF transmit power, layered storage of logistics, the challenging … Complex
+Event Processing (CEP) - “smart” applications, or machine learning, to infer … 
+",https://arc.aiaa.org/doi/abs/10.2514/6.2017-5256,
+L Cheng and MA Duran,Logistics for world-wide crude oil transportation using discrete event simulation and optimal control,"… Elsevier. Computers & Chemical Engineering. Volume 28, Issues 6–7, 15 June 2004,
+Pages 897-911. Computers & Chemical Engineering. Logistics for world-wide crude oil
+transportation using discrete event simulation and optimal control … 
+",https://www.sciencedirect.com/science/article/pii/S009813540300231X,
+E Thomchick,The use of collaborative learning in logistics classes,"… and open-ended type, whereas the individ- ual quizzes in the traditional class had been
+machine—scored and … JOURNAL OF BUSINESS LOGISTICS, Vol … 2, 1997 205 SOME FURTHER
+THOUGHTS ON COLLABORATIVE LEARNING One concern when using any type of group … 
+",http://search.proquest.com/openview/8b41c986dbb3549fd14655c17b5bfde5/1?pq-origsite=gscholar&cbl=36584,
+S Lu and H Han and J Dong,Adaptability of SVR Time Series Analysis Used in Forecasting of Logistics Demand,"… can be greatly improved. Traditional methods of logistics demand forecast includes
+exponential smoothing, regression analysis, traditional methods of machine learning
+such as neural network. Based on the actually observed … 
+",https://ascelibrary.org/doi/abs/10.1061/40932(246)213,
+G Zaharchuk and E Gong and M Wintermark…,Deep learning in neuroradiology,"… Deep Learning in Neuroradiology. G. Zaharchuk, E. Gong, M. Wintermark, D. Rubin
+and CP Langlotz. American Journal of Neuroradiology October 2018, 39 (10)
+1776-1784; DOI: https://doi.org/10.3174/ajnr.A5543. G. Zaharchuk.
+",http://www.ajnr.org/content/39/10/1776.abstract,http://www.ajnr.org/content/ajnr/39/10/1776.full.pdf
+A Rashidi and MH Sigari and M Maghiar and D Citrin,An analogy between various machine-learning techniques for detecting construction materials in digital images,"… In this paper, the authors conducted a comparison study to evaluate the performance
+of different machine learning techniques for detection of three common categorists
+of building materials: Concrete, red brick, and OSB boards … 
+",https://link.springer.com/article/10.1007/s12205-015-0726-0,
+S Landset and TM Khoshgoftaar and AN Richter…,A survey of open source tools for machine learning with big data in the Hadoop ecosystem,"… A survey of open source tools for machine learning with big data in the Hadoop
+ecosystem. Sara … Abstract. With an ever-increasing amount of options, the task of
+selecting machine learning tools for big data can be difficult. The … 
+",https://www.biomedcentral.com/openurl?doi=10.1186/s40537-015-0032-1,https://www.biomedcentral.com/openurl?doi=10.1186/s40537-015-0032-1
+S Edelkamp and M Gath and C Greulich and M Humann…,Monte-Carlo tree search for logistics,"… In: International conference on emerging technologies for a smarter world (CEWIT) Gath M,
+Herzog O, Edelkamp S (2014) Autonomous and flexible multiagent systems enhance transport
+logistics … In: European conference on machine learning (ECML) … 
+",https://link.springer.com/chapter/10.1007/978-3-319-21266-1_28,
+R Lind Nilsson,Machine learning in logistics: Increasing the performance of machine learning algorithms on two specific logistic problems,"Data Ductus, a multination IT-consulting company, wants to develop an AI that monitors a logistic system and looks for errors. Once trained enough, this AI will suggest a correction and automatically right issues if they arise. This project presents how one works with …",http://www.diva-portal.org/smash/record.jsf?pid=diva2:1119345,http://www.diva-portal.org/smash/get/diva2:1119345/FULLTEXT01.pdf
+WC Lee and CC Wu and PH Hsu,A single-machine learning effect scheduling problem with release times,"… Omega. Volume 38, Issues 1–2, February–April 2010, Pages 3-11. Omega. A single-machine
+learning effect scheduling problem with release times☆ … Previous article in issue; Next article
+in issue. Keywords. Single machine. Learning effect. Makespan. Release time. 1. Introduction … 
+",https://www.sciencedirect.com/science/article/pii/S0305048309000024,http://betsaonline.com/barnameriziTolid/single-machineLearningSchedulingProblem.pdf
+MS Mahdavinejad and M Rezvan and M Barekatain…,Machine learning for Internet of Things data analysis: A survey,"… Machine learning for internet of things data analysis: a survey … This article assesses
+the various machine learning methods that deal with the challenges presented by
+IoT data by considering smart cities as the main use case … 
+",https://www.sciencedirect.com/science/article/pii/S235286481730247X,https://www.sciencedirect.com/science/article/pii/S235286481730247X
+JK Yang and WY Yu,Feature Selection Applied to Recommender Systems for Reverse Logistics Internet Auction,"… in print); Ryan, SM, Min, KJ and Olafsson, S., 2001, 'Experimental study of scalability
+enhancements for reverse logistics E-Commerce', in … Witten, I. and Frank, E., 2000, 'Data mining:
+practical machine learning tools and techniques with Java implementations', Morgan Kaufmann; … 
+",http://www.koreascience.or.kr/article/JAKO200606140709481.page,
+A Mackenzie,The production of prediction: What does machine learning want?,"… The production of prediction: What does machine learning want? Adrian Mackenzie. European
+Journal of Cultural Studies 2015 18:4-5, 429-445. Download Citation … View. Explore More.
+The production of prediction: What does machine learning want … 
+",https://journals.sagepub.com/doi/abs/10.1177/1367549415577384,https://pdfs.semanticscholar.org/660f/f427b97bda39a007687b777a3e1fae56be9d.pdf
+CKM Lee and W Ho and GTS Ho and HCW Lau,Design and development of logistics workflow systems for demand management with RFID,"… using various approaches to improve demand and supply chain, the research related to apply
+machine learning for demand pattern recognition has not received the attention it deserves. This
+issue is addressed in this paper with the introduction of a logistics workflow system for … 
+",https://www.sciencedirect.com/science/article/pii/S0957417410011565,https://minerva-access.unimelb.edu.au/bitstream/handle/11343/118663/20.pdf?sequence=1&isAllowed=y
+RA Sutrisnowati and H Bae and J Park,BAYESIAN NETWORK LEARNING FOR PORT-LOGISTICS-PROCESS KNOWLEDGE DISCOVERY.,"… BAYESIAN NETWORK LEARNING FOR PORT-LOGISTICS-PROCESS KNOWLEDGE
+DISCOVERY Riska Asriana Sutrisnowati1, Hyerim Bae1 and Jaehun Park2 1Pusan National
+University, Korea Republic of, 2Worcester Polytechnic Institute, United States … 
+",https://www.researchgate.net/profile/Jaehun_Park/publication/278783306_Bayesian_network_learning_for_port-logistics-process_knowledge_discovery/links/558569e708aeb0cdaddd71c9.pdf,https://www.researchgate.net/profile/Jaehun_Park/publication/278783306_Bayesian_network_learning_for_port-logistics-process_knowledge_discovery/links/558569e708aeb0cdaddd71c9.pdf
+Z Deng and M Ji,Deriving rules for trip purpose identification from GPS travel survey data and land use data: A machine learning approach,"… Quinlan, JR (1993). “C4.5: Programs for Machine Learning.” San Mateo, California: Morgan
+Kaufmann … Stopher, PR, Clifford, E., Zhang J., and FitzGerald, C. (2008).“Deducing mode and
+purpose from GPS Data.” Paper report to Institute of Transport and Logistics Studies, 1-13 … 
+",https://ascelibrary.org/doi/abs/10.1061/41123(383)73,http://www.academia.edu/download/4492214/073-ICTTS_______.pdf
+P Mohassel and Y Zhang,Secureml: A system for scalable privacy-preserving machine learning,"Page 1. SecureML: A System for Scalable Privacy-Preserving Machine Learning …
+Abstract—Machine learning is widely used in practice to pro- duce predictive models
+for applications such as image processing, speech and text recognition … 
+",https://ieeexplore.ieee.org/abstract/document/7958569/,https://obj.umiacs.umd.edu/papers_for_stories/SecureML_Zhang.pdf
+G Xiao and B Xi,Swarm based logistics supply structure evolving simulation for strategic decision,Corporation's strategic decision in logistics demand and supply management affects all aspects about profit advantage in the increasingly competitive market. This research studies how the long-term logistics strategic decision impacts on all factors about logistics service …,https://ieeexplore.ieee.org/abstract/document/1527570/,
+L Liu and H Daniels and R Triepels,Auditing Data Reliability in International Logistics,"… In this article, we examine the requirement of data reliability analysis in the business setting of
+international logistics in Section 2, and propose to use Bayesian networks as the analysis
+approach. After comparing the approach with other machine learning methods in Section 3 … 
+",https://pdfs.semanticscholar.org/27bf/18b64af92654638fbd4b2de5ada803f4bde5.pdf,https://pdfs.semanticscholar.org/27bf/18b64af92654638fbd4b2de5ada803f4bde5.pdf
+M AlShaer and Y Taher and R Haque and MS Hacid…,ProLoD: An Efficient Framework for Processing Logistics Data,"… called ProLoD for processing logistics data that are stemming from various internal and external
+sources within logistics domain … In order to develop our data processing model, we studied different
+machine learning algorithms; eventually, we choose Johnsons hierarchical … 
+",https://link.springer.com/chapter/10.1007/978-3-319-69462-7_44,
+GX Liu and F Liu,IoT-based TPL whole supply chain logistics information system model,"In this paper, after analysis of the relationship between third-party logistics (TPL) and the flow of information, logistics, capital as well as business among the node enterprises in supply chain, we have proposed a two-hub information system model. TPL serves as the …",https://ieeexplore.ieee.org/abstract/document/6890882/,
+W Xiao and Q Fei,A study of personal credit scoring models on support vector machine with optimal choice of kernel function parameters,"… of research interests in previous literature.Recent studies have shown that machine learning
+techniques achieved … Value Model Based on Rough Set and Support Vector Regression
+Machine[A];[C … Risk Measurement of Supply Chain Finance in Third-party Logistics Company … 
+",http://en.cnki.com.cn/Article_en/CJFDTotal-XTLL200610010.htm,
+SI Song and BG Lee and HJ Jung,Development of DMQFD Model for Analysis of Port Logistics Service Quality,"… 서비스 공급구조 연구', The Journal of shipping and logistics, 50 : 20-41, 2006; 해양수산부,
+항만서비스헌장, 해양수산부공고, 제99-59호, 1999; John, GH, Kohavi, R., and Pflager, P.; 'Irrelevant
+Features and the Subset Selection Problem,' In Machine Learning: Proceedings of the … 
+",http://www.koreascience.or.kr/article/JAKO200735836612039.page,
+J Lemley and S Bazrafkan…,"Deep Learning for Consumer Devices and Services: Pushing the limits for machine learning, artificial intelligence, and computer vision.","… Pushing the limits for machine learning, artificial intelligence, and computer vision … analyzing
+your needs, translating your voice requests and marshalling the necessary logistics to deliv … There
+are several software packages trending in the deep learning field, including but not … 
+",https://ieeexplore.ieee.org/abstract/document/7879402/,https://www.library.nuigalway.ie/bitstream/handle/10379/6699/DL_PaperFinal.pdf?sequence=4&isAllowed=y
+Q Yang and LL Lai and Z Feng,Interval-gap-based logistics time ontology modeling and validation for Decision Support,"In the last few years, ontologies have been successfully exploited by Decision Support Systems to represent knowledge and reason to take a decision. In this paper, an interval-gap-based logistics time ontology is modeled to represent the temporal knowledge in …",https://ieeexplore.ieee.org/abstract/document/6890449/,
+D Zhao and Y Zhan and Y Huo and X Wu,Optimal Inventory Control Based on Accumulating Lot-Sizing Disposal Model in Reverse Logistics,"Driven by growing environmental concerns, legislative actions and economic profit, manufacturers concern more and more about the inventory control of the reverse logistics, which is one of the most important research fields. Accumulating lot-sizing disposal model is …",https://ieeexplore.ieee.org/abstract/document/4028158/,
+A Metzger and R Franklin and Y Engel,Predictive monitoring of heterogeneous service-oriented business networks: The transport and logistics case,"Page 1. Predictive Monitoring of Heterogeneous Service-oriented Business Networks: The
+Transport and Logistics Case … We focus on transport & logistics as a major industry sector –
+accounting for between 10% to 20% of a country's Gross Domestic Product … 
+",https://ieeexplore.ieee.org/abstract/document/6311010/,https://www.researchgate.net/profile/Yagil_Engel/publication/261344260_Predictive_Monitoring_of_Heterogeneous_Service-Oriented_Business_Networks_The_Transport_and_Logistics_Case/links/57b5cb2708aeaab2a104edfe.pdf
+L Mönch and J Zimmermann and P Otto,Machine learning techniques for scheduling jobs with incompatible families and unequal ready times on parallel batch machines,"… Machine learning techniques for scheduling jobs with incompatible families and
+unequal ready times on parallel batch machines. Author … 5. Machine learning
+techniques applied to parameter setting in scheduling heuristics. In … 
+",https://www.sciencedirect.com/science/article/pii/S0952197605001259,
+JA Starzyk and H He,Spatio–temporal memories for machine learning: A long-term memory organization,"… 20, NO. 5, MAY 2009 Spatio–Temporal Memories for Machine Learning … This paper aims to study
+spatio–temporal memories for machine learning and proposes a novel architecture aimed at robust,
+tolerant, and flexible temporal sequence learning and recognition … 
+",https://ieeexplore.ieee.org/abstract/document/4806127/,https://www.researchgate.net/profile/Janusz_Starzyk/publication/24248154_Spatio-Temporal_Memories_for_Machine_Learning_A_Long-Term_Memory_Organization/links/541395a10cf2788c4b359ac6/Spatio-Temporal-Memories-for-Machine-Learning-A-Long-Term-Memory-Organization.pdf
+H Sahin and A Subasi,Classification of the cardiotocogram data for anticipation of fetal risks using machine learning techniques,"… Download full-size image. Fig. 3. The performances of the respective machine learning methods …
+The ROC curve of random forest is illustrated in Fig. 5. After the Random Forest, the highest
+value was got by simple logistics surprisingly with the value of 0.996 … 
+",https://www.sciencedirect.com/science/article/pii/S1568494615002653,
+P Zhong and P Zhang and R Wang,Dynamic learning of SMLR for feature selection and classification of hyperspectral data,"… data. Recently developed methods for learning sparse classifiers, which combine
+the automatic feature selection and classifier design, established themselves among
+the state of the art in the literature of machine learning. In … 
+",https://ieeexplore.ieee.org/abstract/document/4464110/,
+X Yang and D Lo and X Xia and Y Zhang…,Deep learning for just-in-time defect prediction,"… Nowadays, deep learning is a hot topic in the machine learning literature. Whether deep learning
+can be used to improve the performance of just- in-time defect prediction is still uninvestigated …
+Next, a machine learning classifier is built on the selected features … 
+",https://ieeexplore.ieee.org/abstract/document/7272910/,https://xin-xia.github.io/publication/qrs15.pdf
+P Bose and NR Mehta,Condition monitoring and prediction for smart logistics,"… Supply chain logistics involves the administration of systems and processes for the transportation
+of goods or other items from a source … creating a composable and scalable model for local updating
+via machine learning techniques and estimating QoS that scales to cover large … 
+",https://patents.google.com/patent/US20160196527A1/en,https://patentimages.storage.googleapis.com/f2/f1/d7/a012cafbc54434/US20160196527A1.pdf
+AT Azar and S Vaidyanathan,Chaos modeling and control systems design,"… Moustafa Hassan and Fahmy M. Bendary Investigating Metaheuristics Applications for Capacitated
+Location Allocation Problem on Logistics Networks … 265 Salem Elsaiah, Mohammed Benidris
+and Joydeep Mitra Machine Learning Aided Ef fi cient Tools for Risk Evaluation and … 
+",https://link.springer.com/content/pdf/10.1007/978-3-319-13132-0.pdf,
+KP Soman and R Loganathan and V Ajay,Machine learning with SVM and other kernel methods,"… Page 2. MACHINE LEARNING WITH SVM AND OTHER KERNEL METHODS Page 3 … Page 4.
+MACHINE LEARNING WITH SVM AND OTHER KERNEL METHODS (With CD-ROM) KP Soman,
+R. Loganathan and V. Ajay © 2009 by PHI Learning Private Limited, New Delhi … 
+",https://books.google.com/books?hl=ja&lr=lang_ja|lang_en&id=-2evxOIz-d4C&oi=fnd&pg=PR2&dq=Machine+learning+in+logistics&ots=x4GLHpBkIV&sig=Q5TRgi4xrtQRtbjfYo9uE-kRRhw,
+J Dean,"Big data, data mining, and machine learning: value creation for business leaders and practitioners","… WILEY Page 2. Additional praise for Big Data, Data Mining,and Machine Learning:
+Value Creation for Business Leaders and Practitioners “Jared's book is a great
+introduction to the area of High Powered Analytics. Itwill beuseful … 
+",https://books.google.com/books?hl=ja&lr=lang_ja|lang_en&id=Js2LAwAAQBAJ&oi=fnd&pg=PT22&dq=Machine+learning+in+logistics&ots=2m7E1BalIb&sig=AbyaHZj9fL6WYaP5ipxYByamjYk,
+H Lakkaraju and E Aguiar and C Shan and D Miller…,A machine learning framework to identify students at risk of adverse academic outcomes,"Page 1. A Machine Learning Framework to Identify Students at Risk of Adverse Academic
+Outcomes ∗ … We together designed several evaluation metrics to assess the goodness
+of machine learning algorithms from an educator's perspective … 
+",https://dl.acm.org/citation.cfm?id=2788620,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.725.9585&rep=rep1&type=pdf
+S Chen and M Gan and Y Tang,Analysis of predicting the diversity regional logistics demand based on SVR: the case of Sichuan in China,"… instead of the real quantity of logistic de- mand[2]. Currently prediction methods of regional logistic
+demand usually make use of freight traffic and freight ton- kilometer to represent the actual logistics
+volume[3 … SVM is a new learning machine for two-group classification problems … 
+",https://pdfs.semanticscholar.org/12ea/426e6a5b33fdd2ac64f820b7a3336447dafe.pdf,https://pdfs.semanticscholar.org/12ea/426e6a5b33fdd2ac64f820b7a3336447dafe.pdf
+E Taniguchi and M Noritake and T Yamada…,Optimal size and location planning of public logistics terminals,"… Genetic algorithms in search, optimization, and machine learning. Addison–Wesley, Reading,
+MA Janssen and Oldenburger, 1991 Janssen, BJP, Oldenburger, AH, 1991. Product channel
+logistics and city distribution centers; the case of the Netherlands … 
+",https://www.sciencedirect.com/science/article/pii/S1366554599000095,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.522.5837&rep=rep1&type=pdf
+CT Chen and PF Pai and WZ Hung,An integrated methodology using linguistic PROMETHEE and maximum deviation method for third-party logistics supplier selection,"… Tang28 considered 5 main criteria including objective logistics capacity, service quality,
+management efficiency level, development potential and price advantage. He presented a support
+vector machine (SVM) method for assessment of the capacity logistics supplier … 
+",https://www.tandfonline.com/doi/abs/10.1080/18756891.2010.9727712,https://download.atlantis-press.com/article/1984.pdf
+M Al-Emran,Hierarchical reinforcement learning: a survey,"… Applying hierarchical reinforcement learning to computer games. In Automation and Logistics,
+2009. ICAL'09 … Dynamic analysis of multiagent Q-learning with ε-greedy exploration. In
+Proceedings of the 26th Annual International Conference on Machine Learning, pp. 369-376 … 
+",https://journal.uob.edu.bh/handle/123456789/443,https://journal.uob.edu.bh/bitstream/handle/123456789/443/IJCDS040207.pdf?sequence=1
+F Lauer and Y Guermeur,MSVMpack: a multi-class support vector machine package,"… On the algorithmic implementation of multiclass kernel-based vector machines. Journal of Machine
+Learning Research, 2:265–292, 2001. M. Frank and P. Wolfe. An algorithm for quadratic
+programming. Naval Research Logistics Quar- terly, 3(1–2):95–110, 1956. Y. Guermeur … 
+",http://www.jmlr.org/papers/v12/lauer11a.html,http://www.jmlr.org/papers/volume12/lauer11a/lauer11a.pdf
+YE Shao and CD Hou and YC Chan…,The hybrid logistics regression-artificial neural network and multivariate adaptive regression splines-artificial neural network modeling schemes for heart disease …,"… heart disease.2 The heart disease data sets used in the present study were obtained from the
+UCI machine learning benchmark repository … Although one can use those 13 explanatory
+measurements to classify heart disease through the use of logistics regression (LR) technique … 
+",https://www.ingentaconnect.com/content/asp/asl/2013/00000019/00000011/art00064,
+A Khodayari-Rostamabad and JP Reilly…,Machine learning techniques for the analysis of magnetic flux leakage images in pipeline inspection,"… In this paper, we show how modern machine learning techniques can be used to considerable
+advantage in this respect … The logistics and cost of shutting down a pipeline for inspection is
+prohibitive, so inspec- tion devices, referred to as pipeline inspection gauges (PIGs) in the … 
+",https://ieeexplore.ieee.org/abstract/document/5170224/,
+MM Tseng and J Jiao and ME Merchant,Design for mass customization,"… To achieve this life cycle cost, product family cost including inventory, logistics, and development
+is considered with the different level of … Machine learning techniques [2] are then applied to induce
+clusters of concentration in both the customer domain and the physical design … 
+",https://www.sciencedirect.com/science/article/pii/S0007850607630364,
+M Rabe and F Dross,A reinforcement learning approach for a decision support system for logistics networks,"… (2011). 2.2 Reinforcement Learning in the Context of Logistics Networks RL is the area of
+machine learning concerned with learning the actions that a software agent (RL agent) should
+take in a particular environment in order to maximize its rewards … 
+",https://ieeexplore.ieee.org/abstract/document/7408317/,
+CL Koo and MJ Liew and MS Mohamad and M Salleh…,A review for detecting gene-gene interactions using machine learning methods in genetic epidemiology,"… Research International Volume 2013, Article ID 432375, 13 pages http://dx.doi.org/
+10.1155/2013/432375 Review Article. A Review for Detecting Gene-Gene Interactions
+Using Machine Learning Methods in Genetic Epidemiology … 
+",https://www.hindawi.com/journals/bmri/2013/432375/abs/,http://downloads.hindawi.com/journals/bmri/2013/432375.pdf
+N Hiranuma and W Montgomery and P Panchekha and J Redmon,Logistics,"… Can we have confidence in results? How much data is needed? • How to model applications
+as machine learning problems? (engineering challenge) Page 43. Logistics: Evaluation • 4
+homeworks (70% total) – Assigned in weeks 2,4,6,8 – Due two weeks later … 
+",https://pdfs.semanticscholar.org/2a40/28f5d5547d605058b9c43fd3e9562b086037.pdf,https://pdfs.semanticscholar.org/2a40/28f5d5547d605058b9c43fd3e9562b086037.pdf
+L Monostori,"Cyber-physical production systems: Roots, expectations and R&D challenges","… The newest results of artificial intelligence (AI) and machine learning significantly contributed
+to the intelligent manufacturing systems (IMS … situation dependent ways, on and across all levels
+of production, from processes through machines up to production and logistics networks … 
+",https://www.sciencedirect.com/science/article/pii/S2212827114003497,https://www.sciencedirect.com/science/article/pii/S2212827114003497/pdf?md5=faa21388410c0551d1f48c45d4831f79&isDTMRedir=Y&pid=1-s2.0-S2212827114003497-main.pdf
+P Allberg,Applied machine learning in the logistics sector: A comparative analysis of supervised learning algorithms,"Conclusions Any of the five algorithms mentioned prior can be chosen for this type of classification, or to further study based on other measurements, and there is an indication that human errors could play a part on whether a consignment gets classified as missed or …",http://www.diva-portal.org/smash/record.jsf?pid=diva2:1228842,http://www.diva-portal.org/smash/get/diva2:1228842/FULLTEXT02
+E Bazan and MY Jaber and S Zanoni,A review of mathematical inventory models for reverse logistics and the future of its modeling: An environmental perspective,"… IEEE International Conference on Service Operations and Logistics, and Informatics (IEEE/SOLI),
+12–15 October, Vol. 1, pp. 1215–1220, Beijing, China … 2008 International Conference on Machine
+Learning and Cybernetics, 12–15 July, Vol. 7, pp. 3952–3957, Kunming, China … 
+",https://www.sciencedirect.com/science/article/pii/S0307904X15007416,
+BD Czejdo and M Baszun,Information logistics for incomplete knowledge processing,"… 2010) [7] Czejdo, BD, Baszun, M.: Knowledge Processing Based on Information Logistics Mod-
+els. In: Proceedings of the LOGITRANS 2010 Conference, Szczyrk (April 2010) [8] Blei, DM, Ng,
+AY, Jordan, MI: Latent Dirichlet Allocation. Journal of Machine Learning Research (3 … 
+",https://link.springer.com/chapter/10.1007/978-3-642-16324-1_31,
+W Liu and Y Yang and X Li and H Xu and D Xie,A time scheduling model of logistics service supply chain with mass customized logistics service,"… Research Article. A Time Scheduling Model of Logistics Service Supply Chain with
+Mass Customized Logistics Service. Weihua … enterprise. The basic structure of LSSC
+is functional logistics service provider (FLSP) → LSI → customer … 
+",https://www.hindawi.com/journals/ddns/2012/482978/abs/,https://www.hindawi.com/journals/ddns/2012/482978/
+F Nielsen and R Nock,Approximating smallest enclosing balls with applications to machine learning,"… APPROXIMATING SMALLEST ENCLOSING BALLS WITH APPLICATIONS TO MACHINE
+LEARNING∗ FRANK NIELSEN Sony Computer Science Laboratories Inc … Section 8 introduces
+the use of the SEB primitive in computational machine learning … 
+",https://www.worldscientific.com/doi/abs/10.1142/S0218195909003039,https://www.researchgate.net/profile/Richard_Nock/publication/220669618_Approximating_Smallest_Enclosing_Balls_with_Application_to_Machine_Learning/links/0f31752d54992ce1f1000000.pdf
+X Yu and X Liao and W Li and X Liu and Z Tao,Logistics automation control based on machine learning algorithm,"In order to improve the logistics problem, taking automated logistics system as research platform, a new optimization algorithm is proposed for the route planning of multi-goods picking operation of stacker in stereoscopic warehouse. First, the hardware composition of …",https://link.springer.com/article/10.1007/s10586-018-2169-0,
+S Siddiqui and V Garg and JG Mirchandani…,Dynamic machine-learning-based contact processing,"… G06Q10/00—Administration; Management; G06Q10/08—Logistics, eg warehousing, loading,
+distribution or shipping; Inventory or stock management, eg … The dynamic analysis, which may
+be performed using a specially trained machine learning model, facilitates not just the … 
+",https://patents.google.com/patent/US10264128B1/en,
+N Kerdprasop and K Chansilp and K Kerdprasop…,Anomaly Detection with Machine Learning Technique to Support Smart Logistics,"Accurate planning and cost-effective management on product delivery are among key factors leading to the success of most manufacturing sectors in the current era of the fourth industrial revolution, or Industry 4.0. In this work, we focus our study on the development of a …",https://link.springer.com/chapter/10.1007/978-3-030-24289-3_34,
+G Chen and GJ Hay and B St-Onge,"A GEOBIA framework to estimate forest parameters from lidar transects, Quickbird imagery and machine learning: A case study in Quebec, Canada","… A GEOBIA framework to estimate forest parameters from lidar transects, Quickbird imagery and
+machine learning: A case study in Quebec, Canada … Keywords. GEOBIA. Geo-intelligence. Forest
+parameters. Lidar transects. Quickbird. Machine learning. 1. Introduction … 
+",https://www.sciencedirect.com/science/article/pii/S0303243411000730,http://people.ucalgary.ca/~gjhay/PDFs/Peer_reviewed/2011_Chen_etal_JAG.pdf
+CC Lin and YH Ru and SC Lee and Y Zhu,"An assessment of the usage versus offerings of logistics services in Beijing city, China","We compiled an up-to-date list of logistics services offerings as the basis for our questionnaire design to study the city logistics in Chinese Capital city, Beijing. We used personal interviews to simultaneously collect credible logistics services usage and offerings …",https://www.infona.pl/resource/bwmeta1.element.ieee-art-000005212656,
+SJ Blöchl and M Schneider,Simulation game for intelligent production logistics–The PuLL® learning factory,"… especially for high-variant series production [5, 6]. Therefore, the Lean learning factory covered
+these … penetration of the production through information technologies and the use of machine
+intelligence for … complexity in production [7, 9]. When it comes to production logistics, it is … 
+",https://www.sciencedirect.com/science/article/pii/S2212827116302876,https://www.sciencedirect.com/science/article/pii/S2212827116302876/pdf?md5=f04bc83b010568792b7f88341a13edf2&isDTMRedir=Y&pid=1-s2.0-S2212827116302876-main.pdf
+A Burmester and F Burmester and T Reiners,Virtual environment for immersive learning of container logistics,"… Furthermore, we are currently working on the integration of optimization algorithms so that the
+world of education, logistics and operations research are combined to represent an
+interdisciplinary learning scenario … E-Learning requires Machine Translation and vice … 
+",https://www.learntechlib.org/p/29194/,
+E Ilie-Zudor and Z Kemény and A Ekárt and CD Buckingham…,A solution for information management in logistics operations of modern manufacturing chains,"… The ADVANCE decision support software framework relies on machine learning and cognitive
+modelling to deliver a practical solution that is both specialised to the industrial case study
+and is general enough to be adapted in other logistics scenarios … 
+",https://www.sciencedirect.com/science/article/pii/S2212827114010786,https://www.sciencedirect.com/science/article/pii/S2212827114010786/pdf?md5=a658d7bbcb4049a982b981f6abc1565d&isDTMRedir=Y&pid=1-s2.0-S2212827114010786-main.pdf
+AN Adıgüzel Tüylü and E Eroğlu,Using Machine Learning Algorithms For Forecasting Rate of Return Product In Reverse Logistics Process,"Many textile products are in reverse logistics network due to mistakes made in activities such as sales forecasting, inventory planning and distribution. In order to reduce resource usage and cost at first step, in addition to producing the correct quantity, these products must be …",http://alphanumericjournal.com/article/using-machine-learning-algorithms-for-forecasting-rate-of-return-product-in-reverse-logistics-process/,http://alphanumericjournal.com/media/Issue/volume-7-issue-1-2019/using-machine-learning-algorithms-for-forecasting-rate-of-re_zUyVJMl.pdf
+IH Wang,Overview and Logistics,"… 16 Page 17. Tentative Schedule (1) 17 week date lecture unit note 1 02/19 02/21 Logistics
+and overview Probabilistic framework of machine learning Introduction 2 02/26 02/28
+No-Free-Lunch Theorem Holiday (no lecture) Introduction 3 03/05 03/07 … 
+",http://homepage.ntu.edu.tw/~ihwang/Teaching/Sp19/Logistics_ho.pdf,http://homepage.ntu.edu.tw/~ihwang/Teaching/Sp19/Logistics_ho.pdf
+SM Lin,Analysis of service satisfaction in web auction logistics service using a combination of fruit fly optimization algorithm and general regression neural network,"… Bradley AP (1997) The use of the area under the ROC curve in the evaluation of machine learning
+algorithms … Authors and Affiliations. Su-Mei Lin: 1. Email author. 1.Department of Marketing and
+LogisticsChina University of TechnologyHsin-ChuTaiwan, ROC. About this article … 
+",https://link.springer.com/article/10.1007/s00521-011-0769-1,
+HK Song and KM Kim and KT Kim…,Application of genetic algorithm for logistics based on multi-agent system,"… References [1] Wu Shihong et al., “Logistics Supply Simulation Based on Multi-agent Cooperation”,
+2010 2nd International … and ant colony algorithm for distribution network planning”, Proceedings
+of the Sixth International Conference on Machine Learning and Cybernetics … 
+",https://ieeexplore.ieee.org/abstract/document/6496395/,
+H Zhang and N El-Berishy and D Zastrau and SNK Marwat…,Interdisciplinary perspective on knowledge management in logistics,"… Ind Manage Data Syst 109(3):322–337CrossRefGoogle Scholar. Sutton M (2008) Maritime
+logistics and the world trading system … Wiley, New YorkGoogle Scholar. Witten IH, Frank E
+(2008) Data mining: practical machine learning tools and techniques … 
+",https://link.springer.com/chapter/10.1007/978-3-319-13177-1_38,
+A Simroth and H Zahle,Travel time prediction using floating car data applied to logistics planning,"… From the first one, we want to mention tools such as data mining as in [8] and pattern matching
+[3]. A machine learning approach is … We present a new algorithm for travel time prediction that
+is applicable for logistics companies to support the process of vehicle routing and … 
+",https://ieeexplore.ieee.org/abstract/document/5654589/,
+PM Singh and MJ van Sinderen,Big data interoperability challenges for logistics,"… A., Iacob ME, Hillegersberg J., i-Know 2015, “Using machine learning for unsupervised maritime
+waypoint discovery from streaming AIS data”, Graz, Austria, 2015. Frehe V., Kleinschmidt T.,
+Teuteberg F., Lecture Notes in Informatics, “Big Data in Logistics – Identifying Potential … 
+",https://www.researchgate.net/profile/Prince_Singh9/publication/327691759_Big_Data_interoperability_challenges_for_logistics/links/5b9f8d4145851574f7d1cb81/Big-Data-interoperability-challenges-for-logistics.pdf,https://www.researchgate.net/profile/Prince_Singh9/publication/327691759_Big_Data_interoperability_challenges_for_logistics/links/5b9f8d4145851574f7d1cb81/Big-Data-interoperability-challenges-for-logistics.pdf
+R Barga and V Fontama and WH Tok and L Cabrera-Cordon,Predictive analytics with Microsoft Azure machine learning,"Page 1. Predictive Analytics with Microsoft Azure Machine Learning, Second Edition Barga
+ontama Tok Page 2. Predictive Analytics with Microsoft Azure Machine Learning Second
+Edition Roger Barga Valentine Fontama Wee Hyong Tok Page 3 … 
+",https://link.springer.com/content/pdf/10.1007/978-1-4842-1200-4.pdf,
+K Govindan and TCE Cheng and N Mishra and N Shukla,Big data analytics and application for logistics and supply chain management,"… Conceptual, Investigated an approach to tackling the challenges that exist with the race to unleash
+the full potential of big data using statistical and machine learning processes, 32 … 18, Visualization
+of RFID-enabled shopfloor logistics Big data in Cloud Manufacturing, Zhong et al … 
+",https://www.sciencedirect.com/science/article/pii/S1366554518302606,https://hull-repository.worktribe.com/preview/973810/Big%20data%20analytics%20and%20application%20for%20logistics%20and%20supply%20chain%20management.pdf
+T Yildiz and F Yercan,The cross‐entropy method for combinatorial optimization problems of seaport logistics terminal,"… The idea behind the CE method is to model an effective learning technique throughout the … are
+briefly described and re- modelled (Sarker and Newton 2007) to address seaport logistics
+operations: – Quay … A machine (ie crane) can only process one job at a time and once the … 
+",https://www.tandfonline.com/doi/abs/10.3846/transport.2010.51,https://www.tandfonline.com/doi/pdf/10.3846/transport.2010.51
+B Yang,Construction of logistics financial security risk ontology model based on risk association and machine learning,"Previous research on logistics financial risk pre-warning and pre-control focuses on the linear causal relationship between risk and risk events. In fact, risk events in logistics financial field are often caused by multiple risk factors, which are directly or indirectly related …",https://www.sciencedirect.com/science/article/pii/S0925753519313050,
+EG Talbi,Hybrid metaheuristics,"… The applica- tion part of the book will deal with many important and strategic domains such
+as computational biology, telecommunication, engineering design, data mining and machine
+learning, transportation and logistics, production systems, etc … 
+",https://link.springer.com/content/pdf/10.1007/978-3-642-30671-6.pdf,http://searchcol.dps.uminho.pt/AlvelosAl13_book.pdf
+KK Lai and L Yu and L Zhou and S Wang,Credit risk evaluation with least square support vector machine,"… (1) For type I accuracy, the LSSVM is the best of all the approaches, followed by the Vapnik's
+SVM, logistics regression, artificial neural … 6. Vapnik, V.: The Nature of Statistical Learning Theory …
+7. Suykens, JAK, Vandewalle, J.: Least squares support vector machine classifiers … 
+",https://link.springer.com/chapter/10.1007/11795131_71,https://pdfs.semanticscholar.org/2ff4/9dbea0dcccfbb4bf19b50bdca47f8ebf5ceb.pdf
+RN Anderson and A Boulanger and LL Wu…,Forecasting system using machine learning and ensemble methods,"US20150317589A1 - Forecasting system using machine learning and ensemble methods -
+Google Patents. Forecasting system using machine learning and ensemble methods.
+Download PDF Info. Publication number US20150317589A1 … 
+",https://patents.google.com/patent/US20150317589A1/en,https://patentimages.storage.googleapis.com/f5/6a/29/ea2bfb64099dcf/US20150317589A1.pdf
+CT See and M Sim,Robust approximation to multiperiod inventory management,"INFORMS.org; Certified Analytics Professional; PubsOnline; Career Center; 2018
+Annual Meeting. INFORMS PubsOnline. Log In. 0 Cart. Help. Skip main
+navigationClose Drawer MenuOpen Drawer Menu Home: Journals: Decision … 
+",https://pubsonline.informs.org/doi/abs/10.1287/opre.1090.0746,https://www.researchgate.net/profile/Melvyn_Sim/publication/220244412_Robust_Approximation_to_Multiperiod_Inventory_Management/links/53ea369c0cf2fb1b9b676c7c/Robust-Approximation-to-Multiperiod-Inventory-Management.pdf
+S Sarawagi and A Bhamidipaty,Interactive deduplication using active learning,"… One way of reducing the tedium of hand-coding is to relegate the task of finding the
+deduplication function to a machine learning algorithm [31, 32, 14]. The algorithm takes as
+input training examples consisting of pairs of duplicates and non-duplicates … 
+",https://dl.acm.org/citation.cfm?id=775087,http://cvs.cs.umd.edu/class/spring2012/cmsc828L/Papers/SarawagiKDD2002.pdf
+GH Lim and E Pedrosa and F Amaral and R Dias and A Pereira…,Human-robot collaboration and safety management for logistics and manipulation tasks,"… a human operator dedicated to feed blank piles to a packaging machine, as shown in … the
+Challenge 2 (C2), named Shop Floor Logistics and Manipulation, addresses Logistics and Robotic …
+solution combines RGB and Depth features, extracted through Deep Learning and Hand … 
+",https://link.springer.com/chapter/10.1007/978-3-319-70836-2_2,
+GTS Ho and HCW Lau and WH Ip and A Ning,An intelligent information infrastructure to support the streamlining of integrated logistics workflow,"… to introduce a hybrid intelligent infrastructure incorporating data mining and data extra- polation
+capabilities, forming a distinct 'machine learning' feature … on a shortened integrated logistics
+process, improved outbound and inbound logistics and fast response to market needs … 
+",https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0394.2004.00269.x,https://researchdb.hsu.edu.hk/assets/upload/13589/2004_Article_An_intelligent_information_infrastructure.pdf
+RF Saen,A new model for selecting third-party reverse logistics providers in the presence of multiple dual-role factors,"… Zhang CQ, Lu YC (2006) The Reverse Logistics Evaluation Based on KPCA-LINMAP Model,
+Proceedings of the Fifth International Conference on Machine Learning and Cybernetics
+pp. 2531–2535 410 Int J Adv Manuf Technol (2010) 46:405–410
+",https://link.springer.com/article/10.1007/s00170-009-2092-x,https://pdfs.semanticscholar.org/448a/f85cf536b96d28c55e86997acab7344b60f6.pdf
+D Fensel and C Bussler,Semantic web enabled web services,"… One goal is to apply the results from machine learning achieved in simulated virtual
+environments to real robots … In order to compare different learning approaches,
+benchmarks will be defined … The program focuses on the logistics domain … 
+",https://link.springer.com/content/pdf/10.1007/3-540-45751-8.pdf#page=314,https://www.researchgate.net/profile/Christoph_Bussler/publication/221466788_Semantic_Web_Enabled_Web_Services/links/0c96053c71e0350aed000000.pdf
+Y Meidan and B Lerner and G Rabinowitz…,Cycle-time key factor identification and prediction in semiconductor manufacturing using machine learning and data mining,"… It shows comparable accuracy to those of other machine learning and statistical models, such
+as a decision tree, a neural network, and multinomial logistic regression … using Machine Learning
+and Data Mining Yair Meidan, Boaz Lerner, Gad Rabinowitz and Michael Hassoun T … 
+",https://ieeexplore.ieee.org/abstract/document/5719296/,http://www.ee.bgu.ac.il/~boaz/Meidan2011.pdf
+A Kaddoussi and N Zoghlami and H Zgaya and S Hammadi…,Disruption Management Optimization for Military Logistics,"… Page 5. Disruption Management Optimization for Military Logistics 65 Fig. 1. Behavior of the
+ZA … Journal of Purchasing & Supply Management 17, 23–31 (2011) 4. Stone, P., Veloso, M.:
+Multiagent systems: A survey from a machine learning perspective … 
+",https://link.springer.com/chapter/10.1007/978-3-642-23960-1_8,https://link.springer.com/content/pdf/10.1007/978-3-642-23960-1_8.pdf
+R Temjanovski,Challenges of information technology and supply chain management in logistic sector: with an overview of Quehenberger logistics in Macedonia,"… AND SUPPLY CHAIN MANAGEMENT IN LOGISTIC SECTOR: WITH AN OVERVIEW OF
+QUEHENBERGER LOGISTICS IN MACEDONIA … THE EXTENT OF E-COMMERCE PRESENCE
+IN DEVELOPING COUNTRIES ninela Kordić 318-323 MACHINE LEARNING OF HYBRID … 
+",http://eprints.ugd.edu.mk/10076/,http://eprints.ugd.edu.mk/10076/1/Sinteza-2014.pdf
+G Merkuryeva,Metamodelling for simulation applications in production and logistics,"… The complexity of the simulation model in production and logistics increases with the complexity
+of the real system … Advanced metamodelling techniques [5,6.7] are based on approaches from
+machine learning area and adaptive technologies such as neural networking, rule … 
+",https://www.researchgate.net/profile/Galina_Merkuryeva/publication/266339978_Simulation_metamodelling_with_applications_in_production_and_logistics/links/553800100cf247b8587d1433.pdf,https://www.researchgate.net/profile/Galina_Merkuryeva/publication/266339978_Simulation_metamodelling_with_applications_in_production_and_logistics/links/553800100cf247b8587d1433.pdf
+C Engle and A Lupher and R Xin and M Zaharia…,Shark: fast data analysis using coarse-grained distributed memory,"… Shark provides a simple API for these UDFs, which accept a Table RDD as input and emit
+a Table RDD as output. We have already implemented a number of basic machine learning
+algorithms, eg, linear regression, logistics regres- sion, k-means … 
+",https://dl.acm.org/citation.cfm?id=2213934,https://apps.dtic.mil/dtic/tr/fulltext/u2/a577443.pdf
+H Min and HJ Ko,The dynamic design of a reverse logistics network from the perspective of third-party logistics service providers,"… (2000), Dowlatshahi (2000), and Fleischmann (2003). In addition, those who are
+interested in learning more about the evolution of reverse logistics concepts and
+strategies in the retail industry may refer to Bernon and Cullen (2007) … 
+",https://www.sciencedirect.com/science/article/pii/S0925527307002526,
+N Smyrnova,Digitalization as a main direction of logistics innovative development,"… The advantages of Machine Learning using in management improving in such of logistics
+functional spheres, as purchasing logistics, inventory management, warehouse logistics,
+marketing logistics, and distribution logistics, are estimated … 
+",http://vsed.oneu.edu.ua/collections/2018/68/page.php?id=abstract/eng/169-180,
+P Davidsson and L Henesey and L Ramstedt…,An analysis of agent-based approaches to transport logistics,"… An analysis of agent-based approaches to transport logistics … 2. Background. The development
+of distributed and heterogeneous systems, such as software for automation of, and decision
+support for logistics management, poses significant challenges for system developers … 
+",https://www.sciencedirect.com/science/article/pii/S0968090X05000318,https://pdfs.semanticscholar.org/ed37/ff73944a0a07b3f7758944977ba8dc9b2931.pdf
+MAT Figueiredo and AK Jain,Bayesian learning of sparse classifiers,"… parameters, and the “support vector machine” (SVM). Whether one uses a Laplacian prior or
+an SVM, one still needs to specify/estimute the parameters that control the degree of sparseness
+of the resulting classijiers. We propose a Bayesian approach to learning sparse classi … 
+",https://ieeexplore.ieee.org/abstract/document/990453/,http://www.lx.it.pt/~mtf/Figueiredo_Jain_CVPR_2001.pdf
+K Yamano and K Tanaka and M Hirayama…,Self-localization of mobile robots with RFID system by using support vector machine,"… In recent years, RFD (Radio Frequency Dentification) System has become very popular in service
+industries, logistics and manufacturing, as … In these approaches, machine learning is used not
+to estimate landmark locations, but to associate sensor readins with robot's locations … 
+",https://ieeexplore.ieee.org/abstract/document/1389999/,
+ZH Hu,A network for emergency logistics management inspired by immune multi-affinity model,"… In [17], a multi-objective optimization approach is proposed for emergency logistics distribution …
+Artificial immune system is a computational intelligence paradigm, which has found applications
+in data mine [21], scheduling [22], control [23], machine learning [24], security [25 … 
+",https://ieeexplore.ieee.org/abstract/document/5369716/,
+A Ochoa and Y Garcia and J Yañez,Logistics optimization service improved with artificial intelligence,"… Page 9. Logistics Optimization Service Improved with Artificial Intelligence 65 10 … 71–90.
+Prentice Hall, Englewood Cliffs (2004) 16. Ian, WH, Frank, E.: Data Mining: Practical Machine
+Learning Tools and Techniques, 2nd edn. Elsevier, Amsterdam
+",https://link.springer.com/chapter/10.1007/978-3-642-15534-5_4,https://ciatec.repositorioinstitucional.mx/jspui/bitstream/1019/96/1/Ochoa2011_Chapter_LogisticsOptimizationServiceIm.pdf
+HH Cranmer,Volunteer work—Logistics first,"Perspective from The New England Journal of Medicine — Volunteer Work — Logistics First.
+",https://www.nejm.org/doi/full/10.1056/NEJMp058234,https://www.nejm.org/doi/full/10.1056/NEJMp058234
+D Borrajo and M Veloso,Lazy incremental learning of control knowledge for efficiently obtaining quality plans,"… logistics transportation domain, where HAMLET learns rules that improve PRODIGY'S efficiency
+and the quality of the solutions of complex planning problems with up to 50 goals and hundreds
+of literals in the initial state. Section 6 relates our work with other strategy learning … 
+",https://link.springer.com/chapter/10.1007/978-94-017-2053-3_14,https://e-archivo.uc3m.es/bitstream/handle/10016/6842/lazy_borrajo_AIR_1997_ps.pdf?sequence=1
+J Solomon,"Numerical algorithms: methods for computer vision, machine learning, and graphics","Page 1. Numerical Algorithms Methods for Computer Vision, Machine Learning, and Graphics
+Justin Solomon N um erical A lgorithm s … Numerical Algorithms Page 4. Page 5. Numerical
+Algorithms Methods for Computer Vision, Machine Learning, and Graphics Justin Solomon … 
+",https://content.taylorfrancis.com/books/download?dac=C2014-0-29383-3&isbn=9780429171611&format=googlePreviewPdf,
+CC Huang and WY Liang and TL Tseng and PH Chen,The rough set based approach to generic routing problems: case of reverse logistics supplier selection,"… 2008), machine learning (Hua 2008), fault diagnosis (Guo and Li 2007; Li et al. 2006), and conflict
+analysis (Gong et al. 2006) etc … However, only few studies apply the RS theory in the domain
+of Reverse Logistics, where the qualitative data forms as primary information … 
+",https://link.springer.com/article/10.1007/s10845-014-0913-8,
+D Stamer and A Ponomarev and K Sandkuhl and N Shilov…,Collaborative Recommendation System for Improved Information Logistics: Adaption of Information Demand Pattern in E-Mail Communication.,"… also has a form of classifier but it is learned from workers interaction with e-mails by some machine-
+learning algorithm … E-mail ranking engine Browse e- mails User actions analyzer Recommendation
+system Data storage 7th Workshop on Information Logistics and Knowledge … 
+",ftp://ceur-ws.org/pub/publications/CEUR-WS/Vol-1246.zip#page=41,ftp://ceur-ws.org/pub/publications/CEUR-WS/Vol-1246.zip#page=41
+Y Wang,Research on Forecasting Model for Logistics Demand Based on Support Vector Machine,"… According to the characteristics of the logistics demand forecast, this paper establishes a
+forecasting model based on the Support Vector Machine … SVM (Support Vector Machines) is a
+new type of machine learning methods which is a hot research topic in the machine learning … 
+",https://ascelibrary.org/doi/abs/10.1061/41186(421)372,
+A ABDULLAYEVA,"IMPACT OF ARTIFICIAL INTELLIGENCE ON AGRICULTURAL, HEALTHCARE AND LOGISTICS INDUSTRIES","… Tomi Lintonen, Anne Konu, David Seedhouse. Information technology in health promotion.
+https://www.forbes.com/sites/insights-penske/2018/09/04/how-artificial-intelligence-and-machine-
+learning-are-revolutionizing-logistics-supply-chain-and-transportation/#49f4cb0f58f5 … 
+",http://anale.spiruharet.ro/index.php/economics/article/view/1929,
+RC Coulter and R Gross and JF Lalonde…,Robotic Management of Patient Care Logistics,"… generally any location in the network—eg on the clinician's local machine, on a … is envisioned
+that the logistical tasks used to effect automated care logistics management can … Learning—The
+system uses logistical information to continually learn about its internal representations … 
+",https://patents.google.com/patent/US20100305966A1/en,https://patentimages.storage.googleapis.com/8a/30/56/b4c93591de17d9/US20100305966A1.pdf
+Y Chen and H Chen,Research on Multi-Classification of Credit Rating of Small and Medium-Sized Logistics Companies Based on Ordinal Regression Support Vector Machine,"… Abstract Small and medium-sized logistics companies are playing an increasingly important part
+in social life … very well to solve problems with a few such samples as nonlinear and
+high-dimensional pattern recognition, and can applies to other machine learning question, just … 
+",https://pdfs.semanticscholar.org/62e1/b12eeffd211cca7487c48079685835ece0c9.pdf,https://pdfs.semanticscholar.org/62e1/b12eeffd211cca7487c48079685835ece0c9.pdf
+YS Lin and Y Zhang and IC Lin…,Predicting logistics delivery demand with deep neural networks,"… tools. In industrial engineering, machine learning can help solve optimization
+problems and predict variables encountered in production manufacturing [1-3],
+logistics delivery [4-6], inventory management [7-9], etc. Before the … 
+",https://ieeexplore.ieee.org/abstract/document/8333964/,
+YG Kim and JH Suh and SC Park,Visualization of patent analysis for emerging technology,"… Fall, Törcsvári, Fiévet, and Karetka (2004) reported the results of applying a variety of machine
+learning algorithms for training expert systems in German-language patent classification tasks …
+8, Magnetic memory device, 2003-04-30. 9, Logistics, 1987-04-07 … 
+",https://www.sciencedirect.com/science/article/pii/S0957417407000577,http://paper.shiftit.ir/sites/default/files/article/4GIV-YG%20Kim%2C%20JH%20Suh%2C%20SC%20Park-2008.pdf
+J Ceroni and R Alfaro,Information Gathering and Classification for Collaborative Logistics Decision Making,"… has been traditionally faced integrating systems and databases at the various institutions and
+companies participating in the logistics network … approach is using data available in the web as
+input to automatic text classifiers implemented with machine learning techniques … 
+",https://www.intechopen.com/books/supply-chain-management-new-perspectives/information-gathering-and-classification-for-collaborative-logistics-decision-making,https://www.intechopen.com/books/supply-chain-management-new-perspectives/information-gathering-and-classification-for-collaborative-logistics-decision-making
+B Karakostas,Towards Autonomous IoT Logistics Objects,"… carried out in the back-office systems, to which IoT data (such as data from sensors such as RFID,
+attached to physical logistics objects) is … Machine learning coupled with AI can be used in order
+for the IoT object to learn from the data to decipher trends and predict future events … 
+",https://www.igi-global.com/chapter/towards-autonomous-iot-logistics-objects/180743,
+T Kamishima and S Akaho…,Fairness-aware learning through regularization approach,"… In this paper, we first discuss three causes of unfairness in machine learning … Blindness to such
+factors must be ensured in determinations that affect people's lives directly. Thus, sensitive features
+must be carefully treated in the processes and algorithms for machine learning … 
+",https://ieeexplore.ieee.org/abstract/document/6137441/,https://www.researchgate.net/profile/Toshihiro_Kamishima/publication/220766348_Fairness-aware_Learning_through_Regularization_Approach/links/590201894585156502a2e679/Fairness-aware-Learning-through-Regularization-Approach.pdf
+GL Small and JF Van Oss and JA Regenor…,Outer space digital logistics system,"… In outer space, the logistics process may be shortened by building and/or printing parts for repair
+and replacement on a space-based entity such … 42 is a flow chart of an embodiment of an additive
+manufacture machine learning process for process and design quality verification … 
+",https://patents.google.com/patent/US20180136633A1/en,https://patentimages.storage.googleapis.com/1b/f7/b2/4bdc7ad8e48d27/US20180136633A1.pdf
+WJ Yuan and JH Chen and JJ Cao…,Forecast Of Logistics Demand Based On Grey Deep Neural Network Model,"Aiming at the current problem of limited feature extraction ability and prediction accuracy of shallow neural networks, this paper proposes a grey deep neural network model by combining grey model and stacked autoencoder (SAE) to take advantage of their …",https://ieeexplore.ieee.org/abstract/document/8527006/,
+K Knierim and H Turner and RK Davis,"Two-stage exams improve student learning in an introductory geology course: Logistics, attendance, and grades","Two-Stage Exams Improve Student Learning in an Introductory Geology Course: Logistics,
+Attendance, and … are completed in a traditional, closed-book format (T) and using machine scoring,
+so … To try to improve student learning, as measured by improve- ment in exam scores … 
+",https://www.tandfonline.com/doi/abs/10.5408/14-051.1,https://files.eric.ed.gov/fulltext/EJ1062254.pdf
+RA Kirithika and R VidhyaLakshmi and K Padmavathi,Performance of Clustering Algorithms in Logistics Database of an Online Trade Centre,"… being done a database has to be maintained electronically to keep a trace out of those orders
+and logistics around the … computational process of discovering patterns in large data sets involving
+methods at the intersection of artificial intelligence, machine learning, statistics, and … 
+",http://www.academia.edu/download/34278404/paper55.pdf,http://www.academia.edu/download/34278404/paper55.pdf
+RA Kirithika and K Padmavathi,Estimation of Clustering Algorithms in Logistics Database of an Online Trade Centre,"… is being done a database has to be maintained electronically to keep a trace out of those orders
+and logistics around the … process of discovering patterns in large data sets involving methods
+at the intersection of artificial intelligence, machine learning, statistics, and … 
+",http://www.academia.edu/download/33456704/V2I409.pdf,http://www.academia.edu/download/33456704/V2I409.pdf
+PR Chowdhary and MR Ettl and RD Lederman…,Training a machine to automate spot pricing of logistics services in a large-scale network,"… be determined. Description. BACKGROUND The present application relates generally
+to computers and computer applications, and more particularly to cargo logistics
+and load balancing based on data and machine learning … 
+",https://patents.google.com/patent/US20190213500A1/en,https://patentimages.storage.googleapis.com/31/2d/97/3e21dcbace9320/US20190213500A1.pdf
+M PANG and Z CHANG and J LIU,Forecasting of Regional Logistics Amount Based on Nonlinear Support Vector Machines [J],"… of Computer Science and Technology, Northern Jiaotong University, Beijing 100044);DATABASE
+LEARNING ALGORITHMS BASED ON SUPPORT VECTOR MACHINE[J];JOURNAL … Wuhan
+430063;The Method of Moving Average Line in Logistics Predicting Technique … 
+",http://en.cnki.com.cn/Article_en/CJFDTotal-LTKJ200709007.htm,
+H Sun and J Xie and SY Li and Y Xue,Customer satisfaction degree evaluation model in logistics using SVM,"… sector. However, there are few practical evaluation method and system studies on
+customer satisfaction in logistics. SVM is a machine learning algorithm and it is a
+recent development of statistical learning theory (Vapnik, 1995) … 
+",https://www.sciencedirect.com/science/article/pii/S1474667016371403,https://folk.ntnu.no/skoge/prost/proceedings/ifac2005/Fullpapers/04148.pdf
+S Mikus and A Dubrawski and N Sondheimer and L Moyer…,Collective Machine Learning for Early Identification of Logistics Crises,,,
+CL Li and L Lu,Research on emergency logistics distribution in complex environment based on GERT,"Emergency logistics is one of the most important measures to solve disastrous accident. Studying on the implement of emergency logistics project has a significant role in supporting emergency rescue system. Therefore, it is necessary to analysis and plan on emergency …",https://ieeexplore.ieee.org/abstract/document/8107734/,
+D Ge and J Wei and H Luo and H Luo and S Liang,Research on Intelligent Logistics Talent Cultivation in Emerging Engineering Construction,"… Some new business models based on information technology and new logistics engineering
+cases based on machine learning have not been introduced into classroom teaching in the way
+that students can accept; they don't adapt to students' preliminary understanding for … 
+",https://www.atlantis-press.com/proceedings/icmess-18/25897212,https://download.atlantis-press.com/article/25897212.pdf
+GÇ Ceyhun,Recent Developments of Artificial Intelligence in Business Logistics: A Maritime Industry Case,"… business logistics. It is estimated that machine learning technologies together with
+unmanned applications may replace people within the next decade in maritime and
+business logistics sectors as in all other areas. It has already … 
+",https://link.springer.com/chapter/10.1007/978-3-030-29739-8_16,
+CM Liu,Evaluating the reliability of emergency logistics system based on fuzzy linguistic approach,This paper proposes a linguistic fuzzy method to evaluate the reliability of emergency logistics system based on incomplete weight information. The proposed methodology involves two mechanisms:(1). Establish the fuzzy comment set about sub-criteria and criteria …,https://ieeexplore.ieee.org/abstract/document/6359533/,
+FZ Wang,Research on agile scheduling decision support system in logistics,"By using the running control idea based on agile knowledge rules, the paper researches a general framework of agile scheduling decision support system (ASDSS), and also further researches the database system, the model base and method base in the ASDSS. The …",https://ieeexplore.ieee.org/abstract/document/5580534/,
+C Yang,Operations reference model for emergency logistics system: A case study on emergency logistics system in Shenzhen,"With enormous consequences occurred frequently around the world, Emergency Logistics has got much attention and become a new efficient methodology in dealing with disastrous consequences. There are various entities and relations involved in emergency logistics  …",https://ieeexplore.ieee.org/abstract/document/6016855/,
+SJJ Hsu and CWR Lin and CH Lin…,KSF for R&D bases positioning in Global Logistics Management—Taiwan's perspective,Research and Development Bases (R&DB) positioning is an important decision in enterprise's Global Logistics Management (GLM). This article applied the Fuzzy Analytic Hierarchy Process (FAHP) to extract the Key Successful Factors (KSFs) for enterprise's …,https://ieeexplore.ieee.org/abstract/document/6016784/,
+B Michelberger and B Mutschler…,Process-oriented information logistics: Aligning enterprise information with business processes,"… Level 5: Process-oriented Information Logistics … from the fields of data mining, text mining (eg,
+text preprocessing, linguistic preprocessing, vector space model, clustering, classification,
+information extraction) [19], pattern-matching, and machine learning (eg, supervised learning … 
+",https://ieeexplore.ieee.org/abstract/document/6337269/,http://dbis.eprints.uni-ulm.de/816/1/EDOC_Paper_MMR12.pdf
+X Zhang and X Ming and Z Chen,Integration of AI Technologies and Logistics Robots in Unmanned Port: A Framework and Application,"… include: 1) 1) intelligent recognition technology based on robot vision and ultrasonic; 2) intelligent
+object recognition technology based on 2D obstacle avoidance laser; 3) machine learning method
+of deep neural network; 4) construction technology of logistics knowledge atlas … 
+",https://dl.acm.org/citation.cfm?id=3297101,
+HE Romeijn and A Schaefer and R Thomas,Unconventional Logistics Systems,"… Abstract Industry 4.0 is being shaped by Internet of Things and Machine Learning techniques;
+In parallel, Logistics 4.0 is also taking shape under somewhat similar concepts such as, smart
+containers, automated vehicles and advanced storage spaces … 
+",https://www.researchgate.net/profile/Mohamed_Awwad3/publication/336474205_Unconventional_Logistics_Systems/links/5da242dea6fdcc8fc34c9517/Unconventional-Logistics-Systems.pdf,https://www.researchgate.net/profile/Mohamed_Awwad3/publication/336474205_Unconventional_Logistics_Systems/links/5da242dea6fdcc8fc34c9517/Unconventional-Logistics-Systems.pdf
+D Koller,What we're learning from online education,,,
+T Salimans and A Karpathy and X Chen and DP Kingma,Pixelcnn++: Improving the pixelcnn with discretized logistic mixture likelihood and other modifications,"… Had we used a discretized mixture of univariate Gaussians for the sub-pixels, instead of logistics,
+this would have been exactly equivalent to predicting the complete pixel using a (discretized … In
+Proceedings of the 32nd International Conference on Machine Learning, 2015 … 
+",https://arxiv.org/abs/1701.05517,https://arxiv.org/pdf/1701.05517
+LN Yuan and DL Zhang,Research on comprehensive evaluation of regional logistics development besed on principal component analysis,"Relationship between logistics and economy is becoming closer and closer. In this paper, a comprehensive evaluation system of regional logistics development is established, which is consisting of 3 primary indexes (core factor for logistics development, potential factor for …",https://ieeexplore.ieee.org/abstract/document/5580521/,
+X Liu and Q Li and B Zhang and J Li,Hashing via Efficient Addictive Kernel for Logistics Image Classification,"… of Jilin University, Zhuhai 519041,Guangdong,China Faculty of Business and Administration,
+University of Macau, Macau 999078, Macau Department of Logistics and Information … In the fields
+of machine learning and vision search, we often use these kernels as learning kernels … 
+",http://article.nadiapub.com/IJDTA/vol9_no2/8.pdf,http://article.nadiapub.com/IJDTA/vol9_no2/8.pdf
+BC Xie and YH Wu and YZ Deng,An Incentive Scheme for Choosing Third Party Logistics Providers,"To choose third party logistics providers, lots of methods are developed, most of them focus on cost, time limit or quality uniquely, and none can take them all into consideration. This paper develops a game-theoretic model that studies the contract design problem. The …",https://ieeexplore.ieee.org/abstract/document/4370139/,
+E Eyob and S Eyob,TRENDS IN BLOCKCHAIN AND NEWER TECHNOLOGIES USES IN LOGISTICS AND SUPPLY CHAIN MANAGEMENT.,"… Keywords: Logistics, Supply Chain, Blockchain, Internet of Things, Artificial Intelligence. Machine
+Learning, RFID … Advances in machine learning, deep learning and artificial intelligence (AI) are
+being implemented in logistics and supply chain management (McCrea, 2018) … 
+",http://www.iacis.org/iis/2019/2_iis_2019_47-55.pdf,http://www.iacis.org/iis/2019/2_iis_2019_47-55.pdf
+L Chen and Z Li,Research on the price analysis and prediction method of agricultural products based on logistics information,"… research. Comput. Simul. 5(9), 16–20 (2016)Google Scholar. 5. Qin, XU: Logistics
+demand prediction model based on chaos theory and extreme learning machine.
+Modern Electron. Tech. 5(7), 55–61 (2017)Google Scholar … 
+",https://link.springer.com/article/10.1007/s10586-018-2462-y,
+A Iriondo and E Lazkano and L Susperregi and J Urain…,Pick and Place Operations in Logistics Using a Mobile Manipulator Controlled with Deep Reinforcement Learning,"… Logistics applications demand the development of flexible, safe and dependable robotic solutions
+for part … in most robotic applications, whether in industrial setups (eg, machine tending, assembling …
+to solve the path planning problem using a reinforcement learning (RL) strategy … 
+",https://www.mdpi.com/2076-3417/9/2/348,https://www.mdpi.com/2076-3417/9/2/348/pdf
+C Glatzel and T Lange,Delivering loyalty: The evolution of logistics from internal process to critical customer touch point,"… the next five to ten years, new technologies will lower operating costs by up to 30 per cent5 and
+improve inventory and avail- ability parameters by as much as 75 per cent.6 Big data, machine
+learning and smart algorithms are already being integrated into logistics planning on a … 
+",https://www.ingentaconnect.com/content/hsp/jscm/2018/00000001/00000002/art00007,
+DE Merchán Dueñas,Effects of road-network circuity on strategic decisions in urban logistics,"… of routing approximations compared to classical methods, and entail relevant implications in
+the configuration of logistics networks within … of Sao Paulo as the primary illustrative example and
+a combination of supervised and unsupervised machine learning methods, significant … 
+",https://dspace.mit.edu/handle/1721.1/119911,
+B Thuraisingham,A primer for understanding and applying data mining,"… logistics applications, data mining helps to make sure that the right people are put on the right
+proj- ects … Data mining uses various machine-learning techniques such as neural networks,
+decision trees, inductive logic pro- gramming, and the k-nearest-neighbor algorithm to … 
+",https://ieeexplore.ieee.org/abstract/document/819936/,https://pdfs.semanticscholar.org/4eba/61f2bbbe6db8e17cc67b1aebe96accd4f434.pdf
+H Xue and C Jiang and B Cai and Y Yuan,Research on demand forecasting of retail supply chain emergency logistics based on NRS-GA-SVM,"… emergency logistics demand forecasting model for retail supply chain. Key Words:
+Retail Supply Chain, Emergency Logistics Demand, Dynamic Forecasting Model,
+Machine Learning, NRS-GA-SVM Algorithm 1 INTRODUCTION … 
+",https://ieeexplore.ieee.org/abstract/document/8407756/,
+RP Troiano and JJ McClain and RJ Brychta and KY Chen,Evolution of accelerometer methods for physical activity research,"… the positional information with the movement acceleration data (the alternating current or AC
+component) in orthogonal directions provides rich feature sets that allow modelling experts and
+statisticians to utilise the power of pattern recognition, machine learning and fusion of … 
+",https://bjsm.bmj.com/content/48/13/1019.short,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4141534/
+EG Nabati and KD Thoben,Improving wind turbine maintenance activities by learning from various information flows available through the wind turbine life cycle,"… Part of the Lecture Notes in Logistics book series (LNLO). Abstract … Keywords. Offshore
+wind turbine Product life cycle information management Maintenance Data mining and
+machine learning. Download conference paper PDF. Introduction … 
+",https://link.springer.com/chapter/10.1007/978-3-319-23512-7_14,https://www.researchgate.net/profile/Mikhail_Postan2/publication/315656641_Application_of_Semi-Markov_Drift_Processes_to_Logistical_Systems_Modeling_and_Optimization/links/59f22d3caca272cdc7d01389/Application-of-Semi-Markov-Drift-Processes-to-Logistical-Systems-Modeling-and-Optimization.pdf#page=156
+C Greulich,An Agent-Based Approach to Multi-criteria Process Optimization in In-House Logistics,"… Furthermore, machine learning methods can be applied to refine the decision-making process
+of an agent … 1998). During the last decade, MAS have been used to solve various problems of
+the logistics domain in simulation and practice (Greulich et al. 2013; Schwarz et al … 
+",https://link.springer.com/chapter/10.1007/978-3-319-23512-7_23,https://www.researchgate.net/profile/Mikhail_Postan2/publication/315656641_Application_of_Semi-Markov_Drift_Processes_to_Logistical_Systems_Modeling_and_Optimization/links/59f22d3caca272cdc7d01389/Application-of-Semi-Markov-Drift-Processes-to-Logistical-Systems-Modeling-and-Optimization.pdf#page=239
+A Halley and A Guilhon,"Logistics behaviour of small enterprises: performance, strategy and definition","… Inter‐firm relationships lead to mutual learning by playing on the specialities and competences
+of each partner, and logistics is developed gradually, but in a more integrated way[25]; here,
+the owner‐manager attempts to ensure that the activity will grow and be perpetuated by … 
+",https://www.emeraldinsight.com/doi/abs/10.1108/09600039710182644,
+H Min and HJ Ko and CS Ko,A genetic algorithm approach to developing the multi-echelon reverse logistics network for product returns,"… Elsevier. Omega. Volume 34, Issue 1, January 2006, Pages 56-69. Omega. A genetic algorithm
+approach to developing the multi-echelon reverse logistics network for product returns … Keywords.
+Reverse logistics. Location-allocation. Genetic algorithm. 1. Introduction … 
+",https://www.sciencedirect.com/science/article/pii/S030504830400115X,https://shop.tarjomeplus.com/UploadFileEn/TPLUS_EN_1002.pdf
+JH Man,An improved way based on rough set for multi-stage reverse logistics processing center location,"In this paper, firstly a multi-stage reverse logistics network model is described and an index system for reverse logistics processing center location is presented. Secondly, a programming model is designed for the system where the values are continuous. Thirdly, the …",https://ieeexplore.ieee.org/abstract/document/5212561/,
+A Kinra and KS Hald,Methodological Development of a Textual Big Data Analytics Approach for Country Logistics Performance,"… in supply chain management as an alternative big data application."",. keywords = ""Logistics,
+Performance Assessment, Trade Facilitation, Logistics Performance Index (LPI), Computer Aided
+Text Analysis (CATA), Machine learning, Big Data, Logistics, Performance Assessment … 
+",https://research.cbs.dk/en/publications/methodological-development-of-a-textual-big-data-analytics-approa,
+P Davidsson and L Henesey and L Ramstedt…,Agent-based approaches to transport logistics,"Page 1. Agent-Based Approaches to Transport Logistics … 2 Background The development of
+distributed and heterogeneous systems, such as software for automation of, and decision support
+for logistics management, poses significant challenges for system developers … 
+",https://link.springer.com/chapter/10.1007/3-7643-7363-6_1,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.62.3271&rep=rep1&type=pdf
+M Klumpp and C Ruiner,Human Role in Digital Logistics: Relevance of Intuition in Interacting with AI,"… Knoll, D., Prüglmeier, M., Reinhart, G.: Predicting future inbound logistics processes using machine
+learning … Wojtusiak, J., Warden, T., Herzog, O.: Machine learning in agent-based stochastic
+simulation: inferential theory and evaluation in transportation logistics. Comput … 
+",https://link.springer.com/chapter/10.1007/978-3-030-29821-0_3,
+SB Eom and SM Lee and EB Kim and C Somarajan,A survey of decision support system applications (1988–1994),"… allocating investment funds in multinational corpora- tions (MNCs), analysing international
+investment options, planning global logistics, and planning … systems are emerging due to the new
+development of artificial intelligence techniques such as machine learning, case-based … 
+",https://link.springer.com/article/10.1057/palgrave.jors.2600507,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.502.6143&rep=rep1&type=pdf
+T Sprock and LF McGinnis,Simulation optimization in Discrete Event Logistics Systems: The challenge of operational control,"… 1997. “Job shop scheduling with a genetic algorithm and machine learning”. International
+Journal of Production Research 35 (4): 1171–1191 … 2011. “A survey of challenges in
+modelling and decision-making for discrete event logistics systems” … 
+",https://ieeexplore.ieee.org/abstract/document/7822174/,http://simulation.su/uploads/files/default/2016-sprock-mcginnis.pdf
+G Zhao and L Zhou and K Luan,Analysis of aviation logistics volume of new airport based on support vector machine,"… and calculated, and on the basis , new airport future aviation logistics demand is … vector machines
+have complete statistical learning theory basis and excellent learning performance of small sample,
+so it has been successfully applied in machine learning and analysis of … 
+",https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8768/87687V/Analysis-of-aviation-logistics-volume-of-new-airport-based-on/10.1117/12.2010526.short,
+H Haße and B Li and N Weißenberg and J Cirullies…,Digital twin for real-time data processing in logistics,"… In addition to the further development of machine learning functions to recognize patterns and
+anomalies and the implementation of software components to … due to the focus of digital twins
+on the area of manufacturing, further investigations are necessary with regard to logistics … 
+",https://tore.tuhh.de/handle/11420/3717,https://tore.tuhh.de/bitstream/11420/3717/1/Ha%C3%9Fe_Wei%C3%9Fenberg_Cirullies_Otto-Digital_Twin_for_Real-Time_Data_Processing_in_Logistics_hicl_2019.pdf
+G Graham and RF Meriton and P Hennelly,Sentiment analysis using KNIME: a systematic literature review of big data logistics,"… of various public and private, manufacturing, medical, service and retail organizations in
+integrating big data (analytics) into their logistics. II … Methods that use artificial intelligence (AI),
+word context or machine learning (ML) methods could potentially improve the current term … 
+",https://dspace.lboro.ac.uk/dspace-jspui/handle/2134/24996,http://eprints.whiterose.ac.uk/104712/1/contribution_50048_EMERGING_2016.pdf
+M Azadi and RF Saen,A new chance-constrained data envelopment analysis for selecting third-party reverse logistics providers in the existence of dual-role factors,"… A new chance-constrained data envelopment analysis for selecting third-party reverse logistics
+providers in the existence of dual-role factors … Keywords. Third-party reverse logistics (3PL)
+providers Chance-constrained data envelopment analysis. Dual-role factors. 1. Introduction … 
+",https://www.sciencedirect.com/science/article/pii/S0957417411005173,https://www.researchgate.net/profile/Majid_Azadi5/publication/220217481_A_new_chance-constrained_data_envelopment_analysis_for_selecting_third-party_reverse_logistics_providers_in_the_existence_of_dual-role_factors/links/5da8282ca6fdccdad54b9d94/A-new-chance-constrained-data-envelopment-analysis-for-selecting-third-party-reverse-logistics-providers-in-the-existence-of-dual-role-factors.pdf
+T Qu and M Thürer and J Wang and Z Wang and H Fu…,System dynamics analysis for an Internet-of-Things-enabled production logistics system,"… Focusing on the execution level, litera- ture concerned with the dynamics in manufacturing and
+logistics operations can be summarised as … Torsten, Jens, and Bernd (2010) and Su, Zhang, and
+Johnston (2013, 2014) investigate the use of machine learning for automatically … 
+",https://www.tandfonline.com/doi/abs/10.1080/00207543.2016.1173738,
+AM Pagano and M Liotine,Technologies in supply chain management and logistics,"… storage and retrieval systems Autonomous vehicles Electronic shelving Optimization software
+Blockchain Internet of Things Virtual reality Machine learning Summary Future vision References
+YouTube Videos Technology in Supply Chain Management and Logistics DOI: https … 
+",https://books.google.com/books?hl=ja&lr=lang_ja|lang_en&id=OASuDwAAQBAJ&oi=fnd&pg=PA7&dq=Machine+learning+in+logistics&ots=wtkyMEyjKb&sig=lp0MBkj5dEDmapMYOFudcCy7sCU,
+JE Streams Jr,UTILIZING ADAPTIVE DESIGN OF EXPERIMENTS WITH LOGISTICS BATTLE COMMAND TO DETERMINE THE MOST IMPORTANT FACTORS FOR A DECISION …,"… field of machine learning could potentially be leveraged to address this need. These methods
+make use of the results of previous experimentation to inform the subsequent trials, potentially
+resulting in fewer costly simulation experiments. TRAC has identified the Logistics Battle … 
+",https://calhoun.nps.edu/handle/10945/63507,
+M Nkhoma and T Lam…,Developing case-based learning activities based on the revised Bloom's Taxonomy,"… In RS Michalski, JG Carbonell, & TM Mitchell (Eds.), Machine Learning An Artificial Intelligence
+Approach (Vol. 2, pp. 167–192) … 93 Joan Richardson is the Deputy Head, Learning and Teaching
+in the School of Business Information Technology and Logistics (SBITL) … 
+",http://proceedings.informingscience.org/InSITE2016/InSITE16p085-093Nkhoma2328.pdf,http://proceedings.informingscience.org/InSITE2016/InSITE16p085-093Nkhoma2328.pdf
+E Forkel and AM Clauß and CA Schumann,Challenges and Opportunities of Interoperable and Future-Oriented Technologies for Production Logistics and Supply Chain Management,"… This case falls into second the sub-discipline mentioned above, machine learning. DHL is a mail
+and logistics company operating internationally … How Artificial Intelligence And Machine Learning
+Are Revolutionizing Logistics, Supply Chain And Transportation. Forbes Insights … 
+",https://www.bam.ac.uk/sites/bam.ac.uk/files/contribution1045.pdf,https://www.bam.ac.uk/sites/bam.ac.uk/files/contribution1045.pdf
+J Wanitwattanakosol…,Performance improvement of freight logistics hub selection in Thailand by coordinated simulation and AHP,"… In addition, variable importance from multiple re- gression method was depicted in Figure 6. Lastly,
+GA learning process was performed based on the same data of … As a result, the statistical tools
+are provided the same important criteria, effecting on logistics hub score from GA … 
+",http://www.koreascience.or.kr/article/ArticleFullRecord.jsp?cn=SGHHEA_2010_v9n2_88,http://ocean.kisti.re.kr/downfile/volume/kiie/SGHHEA/2010/v9n2/SGHHEA_2010_v9n2_88.pdf
+H Ju and L Jing,A Novel Fuzzy Support Vector Machine and Its Application in the Selection of Logistics Service Providers,"… machine; logistics service provider I. INTRODUCTION Support vector machine is a new
+classification method and has drawn much attention on this topic in recent years [1–5]. In many
+applications, SVM has been shown to provide higher performance than traditional learning … 
+",https://ieeexplore.ieee.org/abstract/document/8725726/,
+JF Cohn and TS Kruez and I Matthews and Y Yang…,Detecting depression from facial actions and vocal prosody,"… Accuracy for vocal prosody was 79%. These findings suggest the feasibility of automatic
+detection of depression, raise new issues in automated facial image analysis and machine
+learning, and have exciting implications for clinical theory and practice … 
+",https://ieeexplore.ieee.org/abstract/document/5349358/,https://www.researchgate.net/profile/Jeffrey_Cohn/publication/224088064_Detecting_depression_from_facial_actions_and_vocal_prosody/links/02e7e525c3cf469d1e000000.pdf
+Y Nanazawa and H Suito and H Kawarada,Mathematical study of trade-off relations in logistics systems,"… By varying V ∗ , the maximum utilities of logistics are obtainable, which indicates the relative
+achievement of a better logistics system … 7-45. Google Scholar. [2] DE GoldbergGenetic Algorithms
+in Search, Optimization and Machine Learning. Addison-Wesley (1989). Google Scholar … 
+",https://www.sciencedirect.com/science/article/pii/S0377042708005517,https://www.sciencedirect.com/science/article/pii/S0377042708005517
+ZH Hu,Relief demand forecasting in emergency logistics based on tolerance model,"… The emergency logistics scheduling should consider the stochastic dynamic network … intelligence
+Artificial immune system is a computational intelligence paradigm, which has found applications
+in data mine [20], scheduling [21], control [22], machine learning [23], security [24 … 
+",https://ieeexplore.ieee.org/abstract/document/5533074/,
+H Van Landeghem and D De Vos,On Line Logistics Benchmarking using a Causal Model,"… diagnostics. For this, machine-learning techniques will be tested, as well as classification
+methods … expertise. The method is based on a causal model, linking best practices in the
+domain of logistics to a framework of performance indicators … 
+",http://search.proquest.com/openview/68c0a84b4eb4ff05be60110b775e12ef/1?pq-origsite=gscholar&cbl=51908,
+C Alias and VL Rawet and HXR Neto and JEN Reymão,Investigating into the Prevalence of Complex Event Processing and Predictive Analytics in the Transportation and Logistics Sector: Initial Findings From …,"… mentioned work is part of a broader research endeavor which deals with the benefit poten- tial
+of the technologies in the areas of logistics, transportation and … Finally, predictive analytics is
+considered as a toll using statistical techniques, data mining and machine learning … 
+",https://pdfs.semanticscholar.org/eaec/e246edaebafcfebad27418837ef5f0ce0415.pdf,https://pdfs.semanticscholar.org/eaec/e246edaebafcfebad27418837ef5f0ce0415.pdf
+E Hodo and X Bellekens and A Hamilton…,Threat analysis of IoT networks using artificial neural network intrusion detection system,"… Abstract— The Internet of things (IoT) is still in its infancy and has attracted much interest in many
+industrial sectors including medical fields, logistics tracking, smart cities and automobiles … [17]
+MA Alsheikh, S. Lin, D. Niyato, and H.-P. Tan, “Machine Learning in Wireless Sensor … 
+",https://ieeexplore.ieee.org/abstract/document/7746067/,https://arxiv.org/pdf/1704.02286
+R Pascanu and JW Stokes and H Sanossian…,Malware classification with recurrent networks,"… ABSTRACT Attackers often create systems that automatically rewrite and reorder their malware
+to avoid detection. Typical machine learning approaches, which learn a classifier based on a
+hand crafted feature vector, are not sufficiently robust to such re orderings … 
+",https://ieeexplore.ieee.org/abstract/document/7178304/,https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/pascanuIcassp2015.pdf
+B Scholz-Reiter and M Lütjen and J Heger…,Planning and control of logistics for offshore wind farms,"… On account of this scale the establishment of standard processes for logistics is necessary … Reiter,
+J. Heger, T. Hildebrandt, Analysis and Comparison of Dispatching Rule- Based Scheduling in
+Dual Resource Constrained Shop-Floor Scenarios, Machine Learning and Systems … 
+",http://www.wseas.us/e-library/conferences/2010/Faro/MACMESE/MACMESE-39.pdf,http://www.wseas.us/e-library/conferences/2010/Faro/MACMESE/MACMESE-39.pdf
+M Mohseni and P Read and H Neven and S Boixo and V Denchev…,Commercialize quantum technologies in five years,"… Logistics companies need to optimize their scheduling, planning and product distribution daily.
+Quantum-enhanced algorithms could improve patient diagnostics for health care … Sampling from
+probability distributions is widely used in statistics and machine learning … 
+",https://www.nature.com/articles/543171a,https://www.nature.com/articles/543171a
+VN Khuc and C Shivade and R Ramnath…,Towards building large-scale distributed systems for twitter sentiment analysis,"… learning technique. For the machine learning algorithm, we choose the Adaptive
+Logistics Regression algorithm from Mahout library [4]. For a tweet in the training
+data, we first identify all the sentiment words in it. These identified … 
+",https://dl.acm.org/citation.cfm?id=2245364,http://www.academia.edu/download/42503519/Towards_building_large-scale_distributed20160209-30509-z970lq.pdf
+T Sohn and A Varshavsky and A LaMarca and MY Chen…,Mobility detection using everyday GSM traces,"… with naïve Bayes, Support Vector Machines, AdaBoost [12], MultiBoost [35], and some
+heuristic-based methods; the boosted logistics classifier provided … bile phones to detect motion
+of a device [4]. Similar to these two projects, our ap- proach uses machine learning algorithms … 
+",https://link.springer.com/chapter/10.1007/11853565_13,https://www.researchgate.net/profile/William_Griswold/publication/221568328_Mobility_Detection_Using_Everyday_GSM_Traces/links/0deec52a0f5ed031da000000/Mobility-Detection-Using-Everyday-GSM-Traces.pdf
+X Liu and D Chen and J Cai,The operation of the cross-border e-commerce logistics in China,"… To cite this article: Xiaojun Liu, Dongyan Chen, Jieshan Cai. The Operation of the Cross-Border
+e-commerce Logistics in China. International Journal of Intelligent Information Systems. Special
+Issue: Content-based Image Retrieval and Machine Learning. Vol. 4, No … 
+",https://pdfs.semanticscholar.org/8d64/5b0632f49a0bfd5121da675e66174c4a1d21.pdf,https://pdfs.semanticscholar.org/8d64/5b0632f49a0bfd5121da675e66174c4a1d21.pdf
+TG Crainic and M Toulouse,Parallel strategies for meta-heuristics,"… Parallel metaheuristics. In: TG Crainic and G. Laporte (eds.), Fleet Management and
+Logistics. Kluwer Academic Publishers, Norwell, MA, pp. 205 … tabu search. In:
+Proceedings International Conference on Machine Learning, pp. 823 … 
+",https://link.springer.com/chapter/10.1007/0-306-48056-5_17,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.131.322&rep=rep1&type=pdf
+D Ai-min and C Jia,Research on slotting optimization in automated warehouse of pharmaceutical logistics center,"… [12]Wang Bin, Teng Zhixiang. Boom thoughts on construction of large pharmaceutical logistics
+center in China[J]. Logistics Economy, 2008(5):51-53. [13]Ma Ting, Guo Yanfeng … [18]David E
+Goldberg. Genetic Algorithms in search, optimization and machine learning … 
+",https://ieeexplore.ieee.org/abstract/document/6069955/,
+LH Shih,Reverse logistics system planning for recycling electrical appliances and computers in Taiwan,"… Washing machine, 360, 44 … The major obstacle for reverse logistics planning and solving the
+aforementioned model is the uncertainty of the system … The operating cost, especially the manual
+disassembly cost, should be lower because of the learning curve effects Yelle, 1979 … 
+",https://www.sciencedirect.com/science/article/pii/S0921344900000987,
+R Khardon,Learning action strategies for planning domains,"… Abstract This paper reports on experiments where techniques of supervised machine learning
+are applied to … The input to the learning algorithm is composed of a description of a … We have
+experimented with the blocks world domain and the logistics transportation domain, using … 
+",https://www.sciencedirect.com/science/article/pii/S0004370299000600,https://www.sciencedirect.com/science/article/pii/S0004370299000600/pdf?md5=e2853cdbcc3f8d38a9c0770713b70001&pid=1-s2.0-S0004370299000600-main.pdf
+Y Kang and S Lee and B Do Chung,Learning-based logistics planning and scheduling for crowdsourced parcel delivery,"… Learning-based logistics planning and scheduling for crowdsourced parcel delivery … For this we
+suggest a learning-based logistics planning and scheduling (LLPS) algorithm that controls
+admission of order requests and schedules the routes of multiple vehicles altogether … 
+",https://www.sciencedirect.com/science/article/pii/S0360835219302554,
+J Ehmke,Integration of information and optimization models for routing in city logistics,"International Series in Operations Research & Management Science Jan Fabian Ehmke
+Integration of Information and Optimization Models for Routing in City Logistics … Jan Fabian Ehmke
+Integration of Information and Optimization Models for Routing in City Logistics 123 … 
+",https://books.google.com/books?hl=ja&lr=lang_ja|lang_en&id=TuSf1qC26PgC&oi=fnd&pg=PR6&dq=Machine+learning+in+logistics&ots=lt7Fj2YLhY&sig=Yp4A0WuOWXgRpL_xg_Io1oZv3-w,
+WB Powell,Handbook of learning and approximate dynamic programming,"… Coil Model and PI Control 521 20.3 Combined PI and Reinforcement Learning Control 522 … through
+efforts in multiple disciplines such as adaptive/optimal/robust control, machine learmng, neural …
+for solving real world problems such as those in robotics, logistics, power systems … 
+",https://books.google.com/books?hl=ja&lr=lang_ja|lang_en&id=JHvz1elubJQC&oi=fnd&pg=PR18&dq=Machine+learning+in+logistics&ots=Uk5BF-enU1&sig=I5PYf9-bVzG-bHW9alk-57hqVGo,https://www.researchgate.net/profile/George_Lendaris/publication/288941882_Guidance_in_the_use_of_adaptive_critics_for_control/links/5a864b75458515b8af890f0b/Guidance-in-the-use-of-adaptive-critics-for-control.pdf
+H Adeli,Neural networks in civil engineering: 1989–2000,"… http://ieeexplore.ieee.org/document/8085468/; Frank E. Curtis and Katya Scheinberg, Optimization
+Methods for Supervised Machine Learning: From Linear Models to Deep Learning, The Operations
+Research Revolution, 10.1287/educ.2017.0168, (89-113), (2017) … 
+",https://onlinelibrary.wiley.com/doi/abs/10.1111/0885-9507.00219,https://pdfs.semanticscholar.org/3c03/bbe769227332b1ab78ccc42d7ecbe927138d.pdf
+B Michelberger and M Hipp and B Mutschler,"Process-oriented Information Logistics: Requirements, Techniques, Application","… 5.2 Process-Oriented Information Logistics … algorithms from the fields of data mining, text mining
+(eg text preprocessing, linguistic preprocessing, vector space model, clustering, classification,
+information extraction), pattern-matching, and machine learning (eg supervised … 
+",https://link.springer.com/chapter/10.1007/978-3-319-52181-7_5,
+T Ayer and O Alagoz and NK Stout,OR Forum—A POMDP approach to personalize mammography screening decisions,"INFORMS.org; Certified Analytics Professional; PubsOnline; Career Center; 2018
+Annual Meeting. INFORMS PubsOnline. Log In. 0 Cart. Help. Skip main
+navigationClose Drawer MenuOpen Drawer Menu Home: Journals: Decision … 
+",https://pubsonline.informs.org/doi/abs/10.1287/opre.1110.1019,https://pdfs.semanticscholar.org/7a9b/37026e9c5ee57ea720eeccdb61621018da9c.pdf
+DL Wu and WWY Ng and DS Yeung…,A brief survey on current RFID applications,"… Page 3. Proceedings of the Eighth International Conference on Machine Learning and
+Cybernetics, Baoding, 12-15 July 2009 2332 … Megatrux, a top 100 logistics company in the world,
+has applied Motorola RFID plan to its supply chain management [18] … 
+",https://ieeexplore.ieee.org/abstract/document/5212147/,
+CD Spyropoulos,AI planning and scheduling in the medical hospital environment,"… O-PLAN [59], a blackboard based multiagent system that was tested in mission sequencing,
+planning and control of supply and distribution logistics and project management,. • … knowledge
+acquisition, with the support of machine learning techniques [11], [16], [25], [31], [70] and. • … 
+",https://www.sciencedirect.com/science/article/pii/S0933365700000592,https://iit.demokritos.gr/publications/spyropoulos/journals/C7%20AI%20planning%20and%20scheduling%20in%20the%20medical%20hospital%20environment%20.pdf
+SY Sohn and H Shin,Pattern recognition for road traffic accident severity in Korea,"… 1994, Michie et al. 1994, Sohn 1994, 1996a, b, 1997a, Mangasarian et al. 1995, Salzberg and
+Delcher 1995, Srinivasan and Fisher 1995). Here, classiŪcation algorithms are brieŊy reviewed
+in the following three areas: statistical approach, neural nets and machine learning … 
+",https://www.tandfonline.com/doi/abs/10.1080/00140130120928,
+S Boyd and N Parikh and E Chu and B Peleato…,Distributed optimization and statistical learning via the alternating direction method of multipliers,"… commonplace to attack problems through data analysis, particularly through the use of statistical
+and machine learning algorithms on … as artificial intelligence, internet applications, computational
+biology, medicine, finance, marketing, journalism, net- work analysis, and logistics … 
+",http://www.nowpublishers.com/article/Details/MAL-016,https://www.nowpublishers.com/article/DownloadSummary/MAL-016
+M Klumpp and H Zijm,Logistics innovation and social sustainability: How to prevent an artificial divide in Human–Computer Interaction,"… leaving the former restrictions of coded actions behind, whereas formerly every machine action
+had … case, this represents not only individual but also swarm intelli- gence learning as robots … For
+transportation and logistics, there are already a large number of theoretical concepts … 
+",https://onlinelibrary.wiley.com/doi/abs/10.1111/jbl.12198,
+H Xu and R Xu and Q Ye,Optimization of unbalanced multi-stage logistics systems based on prüfer number and effective capacity coding,"… memory, IPE-GA is still an efficient and robust method for the optimization of unbalanced
+multi-stage logistics systems … 299-314. [11] Goldberg D. Genetic Algorithm in Search, Optimization
+and Machine Learning, Reading, Addison-Wesley, MA (1989). Copyright © 2006 Tsinghua … 
+",https://www.sciencedirect.com/science/article/pii/S1007021406701602,https://ieeexplore.ieee.org/iel5/5971803/6075850/06076291.pdf
+T McClurg and S Chand,A parallel machine replacement model,"… In practice, there may be situations when the operating cost for a machine declines in some period
+as the machine gets older. REFERENCES [1] S. Chand, T. McClurg, and J. Ward, A
+single-machine replacement model with learning, Nav Res Logistics 40 (1993), 175–192 … 
+",https://onlinelibrary.wiley.com/doi/abs/10.1002/nav.10012,
+H Kotzab and C Teller and M Bourlakis…,Key competences of logistics and SCM professionals–the lifelong learning perspective,"… Q1. What are the key competences in logistics and SCM with respect to lifelong learning? In
+answering this research question, we contribute to theory and practice by providing the
+perspective of lifelong learning with a particular focus on the logistics industry … 
+",https://www.emeraldinsight.com/doi/abs/10.1108/SCM-02-2017-0079,https://dspace.lib.cranfield.ac.uk/bitstream/handle/1826/13009/Key_competences_of_logistics_and_SCM_professionals-2017.pdf?sequence=4&isAllowed=y
+AFMNH Nahin and JM Alam and H Mahmud…,Identifying emotion by keystroke dynamics and text pattern analysis,"… The Weka tool has some evaluators (machine learning algorithms, ie simple logistics,
+Multilayer Perceptron) to suggest most weight carrying attributes out of a collection
+of attributes. So, we got seven attributes to be used for analysis … 
+",https://www.tandfonline.com/doi/abs/10.1080/0144929X.2014.907343,
+R Singh Bhatti and P Kumar…,Analytical modeling of third party service provider selection in lead logistics provider environments,"… Analytical modeling of third party service provider selection in lead logistics provider environments …
+Purpose. – The purpose of this paper is to model the choice parameters for selection of third party
+logistics service providers in global lead logistics provider (LLP) environments … 
+",https://www.emeraldinsight.com/doi/full/10.1108/17465661011092641,
+S Narayanan and C Patel and NL Schneider and H Nandha,Integrating object-oriented simulation and interactive optimization methods for logistics systems analysis,"… 4 Illustration of the Java Virtual Machine Environment … Page 9. SUMMARY This report
+documents the results of an approach to integrate simulation, human interaction, and
+evolutionary learning for solving planning problems in airbase logistics systems … 
+",https://apps.dtic.mil/docs/citations/ADA384930,https://apps.dtic.mil/dtic/tr/fulltext/u2/a384930.pdf
+M Roth and A Klarmann and B Franczyk,"Future logistics-challenges, requirements and solutions for logistics networks","… In addition, CEP provides pattern detection and machine learning capabilities … Due
+to the reason that a 4PL has to manage many logistics networks with many process
+executions the visualization of the data must be clearly arranged … 
+",https://www.researchgate.net/profile/Martin_Roth3/publication/260401798_Future_Logistics_-_Challenges_Requirements_and_Solutions_for_Logistics_Networks/links/565eb9ab08aeafc2aac91042.pdf,https://www.researchgate.net/profile/Martin_Roth3/publication/260401798_Future_Logistics_-_Challenges_Requirements_and_Solutions_for_Logistics_Networks/links/565eb9ab08aeafc2aac91042.pdf
+P Svenson and C Mårtenson and H Sidenbladh…,Swarm intelligence for logistics: Background,"… User report Pontus Svenson, Christian Mårtenson, Hedvig Sidenbladh, Michael Malm Swarm
+Intelligence for logistics: Background Page 2 … User report Pontus Svenson, Christian Mårtenson,
+Hedvig Sidenbladh, Michael Malm Swarm Intelligence for logistics: Background Page 3 … 
+",http://www.academia.edu/download/31286576/10.1.1.107.637.pdf,http://www.academia.edu/download/31286576/10.1.1.107.637.pdf
+Y Feng and YM Yao and AX Wang,Comparing with chaotic inertia weights in particle swarm optimization,"Page 1. Proceedings of the Sixth International Conference on Machine Learning and Cybernetics,
+Hong Kong, 19-22 August 2007 … Proceedings of the Sixth International Conference on Machine
+Learning and Cybernetics, Hong Kong, 19-22 August 2007 2. Inertia weight PSO … 
+",https://ieeexplore.ieee.org/abstract/document/4370164/,
+E Montanes and I Diaz and J Ranilla…,Scoring and selecting terms for text categorization,"… Although feature selection might not be interesting in typical machine learning problems, it
+becomes necessary in text domains because applying most ML algorithms to this kind of problem
+might be infeasible … Machine Learning (ICML 99), Morgan Kaufmann, 1999, pp … 
+",https://ieeexplore.ieee.org/abstract/document/1439478/,
+G Fasano and J Pinter,Modeling and optimization in space engineering,"… Specific mission analysis and attitude control subjects include the following: optimal launch date
+analysis for interplanetary missions, evolutionary neuro-control for the global optimization of
+continuous-thrust trajectories, machine learning and evolutionary optimization … 
+",https://link.springer.com/content/pdf/10.1007/978-3-030-10501-3.pdf,
+VA Bychko and RD Yershov and L Plichko…,Automation of clustering methods at planning logistics processes with georeferenced,"… 151-155. June 2016. [2] V. Bychko, Ramit Azad and Biman Tanvir Ahmed, “Automation in search
+of optimal plan resolution of logistics tasks with … [13] DS Modha, and WS Spangler, “Feature
+weighting in K-Means clustering,” Machine learning, vol.52(3), pp. 217-237 … 
+",https://ieeexplore.ieee.org/abstract/document/8409165/,
+S Piramuthu,Knowledge-based framework for automated dynamic supply chain configuration,"… Production, Manufacturing and Logistics. Knowledge-based framework for automated
+dynamic supply chain configuration … In this paper I develop a framework, with machine
+learning, for automated supply chain configuration … 
+",https://www.sciencedirect.com/science/article/pii/S0377221704000670,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.96.6302&rep=rep1&type=pdf
+N Ming,Study on the performance reverse logistics system for enterprises base on GA,"… 43, no. 5, pp. 415-434 [7] Delaney Bob, “Eleventh Annual State of Logistics Report,” St. Louis,
+MO: Cass Logistics. Doherty, 2000 … Ann Arbir, Mich.1975, pp.56-103. [10] Goldberg DE, “Genetic
+algorithms in search, optimization and machine learning ,” Addison Wesley … 
+",https://ieeexplore.ieee.org/abstract/document/4443463/,
+JV Hansen and JB McDonald and JD Stice,Artificial intelligence and generalized qualitative‐response models: an empirical test on two audit decision‐making domains,"… F(zl0) maps the scores (Z=X'fl) into the unit interval [0,1]. The densityAzl0) is symmetric for the
+logistics and normal density … Note that the standard deviations for the machine learning models
+are markedly lower than those for the qualitative response models indicating a better … 
+",https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-5915.1992.tb00413.x,
+D Simić and V Ilin and I Tanackov and V Svirčević…,A hybrid analytic hierarchy process for clustering and ranking best location for logistics distribution center,"… Process (AHP) and k-means method for ranking, clustering and selection of the most suitable
+location for logistics distribution center in BP … Many methods for grouping or clustering data can
+be found in various communities, such as statistics, machine learning, and data mining … 
+",https://link.springer.com/chapter/10.1007/978-3-319-19644-2_40,
+B Mounir and K Afifa and C Habib,Facility location model for reverse logistics.,"… Waste Management and Research 24, 514-527 [16] Lu, Z.; Bostel, N (2007). A facility location
+model for logistics systems including reverse flows: the case of remanufacturing activities …
+Proceedings of the Sixth International Conference on Machine Learning and Cybernetics
+",https://pdfs.semanticscholar.org/1592/f54b1e27a2fd65f9a18f46aeba897ab9f4da.pdf#page=35,https://pdfs.semanticscholar.org/1592/f54b1e27a2fd65f9a18f46aeba897ab9f4da.pdf#page=35
+Y Fan and Z Zhanbiao and J Tianyuan…,Evaluation Research on Military Logistics Distribution Center Based on SVM,"… of the BP neural networks from the view of implementing the function of the military logistics
+distribution center … BASIC PRINCIPLES OF ν-SVR Compared with statistical theory, statistical
+learning theory (SLT) [5], brought by Vapnik, focuses on the machine learning of small … 
+",https://www.atlantis-press.com/proceedings/kam-15/25468,https://download.atlantis-press.com/article/25468.pdf
+WH Liu and D Xie,Quality decision of the logistics service supply chain with service quality guarantee,"… Quality decision of the logistics service supply chain with service quality guarantee … In the logistics
+service supply chain (LSSC), quality supervision and coordination is an important approach that
+can ensure the effective operation of LSSC and obtain more customers … 
+",https://www.tandfonline.com/doi/abs/10.1080/00207543.2012.720390,
+C Poss and T Irrenhauser and M Prueglmeier…,Perceptionbased Intelligent Materialhandling in Industrial Logistics Environments,"… Christian Poss, Dr. Thomas Irrenhauser, Marco Prueglmeier Logistics Robotics, BMW Group,
+Munich, Germany Email: {christian.poss, thomas.irrenhauser, marco.prueglmeier}@bmw.de Prof.
+Dr. Daniel Goehring Dahlem Center for Machine Learning and Robotics, Freie … 
+",https://dl.acm.org/citation.cfm?id=3314011,
+R Tomasini and L Van Wassenhove and L Van Wassenhove,Humanitarian logistics,"… Page 8. CONTENTS Prologue x 1 LOGISTICS OF HUMANITARIAN AID 1 INTRODUCTION 1
+FROM LOGISTICS TO SUPPLY CHAIN … 4 CHARACTERISTICS OF A HUMANITARIAN SUPPLY
+CHAIN 9 SPEED OPPORTUNITIES FOR CROSS-LEARNING SHARING KNOWLEDGE … 
+",https://books.google.com/books?hl=ja&lr=lang_ja|lang_en&id=E72GDAAAQBAJ&oi=fnd&pg=PP1&dq=Machine+learning+in+logistics&ots=qBhB6gHy61&sig=xONYTP4pbqM7qK8nz4aFl4xjx0U,
+S Johannessen and O Solem,"Logistics organizations: ideologies, principles and practice","… on the organizational Table 1 Action Principles and Logistics Organizational Ideologies … production
+supply and production cooperation, delivery and human learning, supply responsibility … Productive
+and Productive and Productive and principle machine pans knowledgeable … 
+",https://www.emeraldinsight.com/doi/abs/10.1108/09574090210806342,
+L Shi and H Fan and P Gao and H Zhang,Network model and optimization of medical waste reverse logistics by improved genetic algorithm,"… Reverse Logistics by Improved Genetic Algorithm … Medical waste recovery, which encompasses
+reusing, remanufacturing and materials recycling, requires a specially structured reverse
+logistics network in order to collect the medical waste efficiently … 
+",https://link.springer.com/chapter/10.1007/978-3-642-04843-2_6,
+L Wang and P Liu and Y Huang and Y Wang and F Kong,Research on milk-run routing problem of automotive supply logistics based on genetic algorithm,"… In the automotive supply logistics milk-run mode, the motor vehicle manufacturer fixed the time
+for taking goods in every parts … and combinatorial optimization problems in non-convex space,
+and has been widely used in adaptive control, machine learning, electrical, automation … 
+",https://link.springer.com/chapter/10.1007/978-3-642-38445-5_53,
+W Krug and T Wiedemann and J Liebelt…,"Simulation and optimization in manufacturing, organization and logistics","… from a simulation run, eg mean flow time of orders, machine utilization, manufacturing … SIMGEN -
+Genetic algorithm ) • Optimization is controlled by a neural learning process • Starting … and
+Optimization of order processes in Manufacturing, organization and Logistics in focused of … 
+",http://www.scs-europe.net/services/ess2002/PDF/op-3.pdf,http://www.scs-europe.net/services/ess2002/PDF/op-3.pdf
+M Huang and S Liu and J Lin,Research on data visualization technology of logistics distribution system based on clustering algorithm,"… We can provide relevant analysis and technical support for enterprises to improve the efficiency
+of distribution logistics and optimize the structure of the industrial chain. CCS Concepts •
+Computing methodologies ➝ Machine learning ➝ Machine learning algorithms ➝ Feature … 
+",https://dl.acm.org/citation.cfm?id=3313957,
+R Varga and S Nedevschi,Robust Pallet Detection for Automated Logistics Operations.,"… We have considered an absolute overlap when the absolute positioning error is less Robust
+Pallet Detection for Automated Logistics Operations 475 Page 7 … The strength of weak learnability.
+MACHLEARN: Machine Learning, 5. Seelinger, MJ and Yoder, J.-D. (2006) … 
+",https://pdfs.semanticscholar.org/d018/181fffd6acf46cfd42a47097f574119dedaa.pdf,https://pdfs.semanticscholar.org/d018/181fffd6acf46cfd42a47097f574119dedaa.pdf
+MA Cohen and YS Zheng and V Agrawal,Service parts logistics: a benchmark analysis,"… TIme Time On-siterepair Machine falls Customer calls CE amyeswith some or all of Ihe required
+parts , Fig. 1. Field operation illustration … Learning Fig. 2. Benchmarking: learning cycle. Page
+4. 630 approach is a conceptual model of the service logistics process … 
+",https://www.tandfonline.com/doi/abs/10.1080/07408179708966373,
+K Takadama and S Amatatsu and S Nakasuka…,Multiagent-based Layout System for a Pressurized Logistics Carrier in H-IIA Transfer Vehicle,"… the proposed system can be used to analyze both appropriate and inappropriate CTBs quantity
+ratio for shifting the center of gravity of an HTV pressurized logistics car- rier … [4] Goldberg, DE:
+Genetic Algorithms in Search, Optimization, and Machine Learning, Addison-Wesley … 
+",http://robotics.estec.esa.int/i-SAIRAS/isairas2003/data/pdf/AS25paper.pdf,http://robotics.estec.esa.int/i-SAIRAS/isairas2003/data/pdf/AS25paper.pdf
+O Solem,Epistemology and logistics: a critical overview,"… r There had been a move from the machine metaphor towards the organism … defined in his famous
+book, The Fifth Discipline, five disci- plines of the learning organization: personal mastery, mental
+models, shared vi- sion, team learning, and systems … Epistemology and Logistics … 
+",https://link.springer.com/article/10.1023/B:SPAA.0000005490.12249.7a,
+Q Zhao and H Ding and H Liu,Research on performance evaluation of logistics service based on SCM,"Page 1. Research on Performance Evaluation of Logistics Service Based on SCM QiLan ZHAO1,
+Huiping DING2, Hongzhi LIU 3 … Keywords: Logistics Service, Third Party Logistics, Performance
+Evaluation, Fuzzy Comprehensive Evaluation 1. INTRODUCTION … 
+",https://ieeexplore.ieee.org/abstract/document/4114624/,
+DC Gondek and A Lally and A Kalyanpur…,A framework for merging and ranking of answers in DeepQA,"… In DeepQA, this is done using a machine learning framework that is phase-based, providing
+capabilities for manipulating the data and applying machine learning in successive
+applications … The DeepQA machine learning framework is phase-based … 
+",https://ieeexplore.ieee.org/abstract/document/6177810/,https://www.delaat.net/smartnetworks/files/watson%20papers/14%20-%20A%20framework%20for%20merging%20and%20ranking%20of%20answers%20in%20DeepQA.pdf
+GW Wei,Uncertain linguistic hybrid geometric mean operator and its application to group decision making under uncertain linguistic environment,"… ISI, Google Scholar; ZS Xu , An ideal point based approach to multi-criteria decision
+making with uncertain linguistic information, Proc. Third Int. Conf. Machine Learning
+and Cybernetics pp. 2078–2082.Google Scholar; ZS Xu … 
+",https://www.worldscientific.com/doi/abs/10.1142/S021848850900584X,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.947.1495&rep=rep1&type=pdf
+V Felch and B Asdecker and E Sucky,Digitization in outbound logistics–Application of an Industry 4.0 Maturity Model for the Delivery Process,"… Apart from these two, other essential Industry 4.0 technologies are cloud computing, big data,
+augmented reality, machine learning, cyber security, autonomous robots and simulation (Gökalp
+et al., 2017; Gilchrist, 2016) … Logistics in the context of Industry 4.0 … 
+",https://opus4.kobv.de/opus4-bamberg/files/54684/VelchDigitizationse_A3b.pdf,https://opus4.kobv.de/opus4-bamberg/files/54684/VelchDigitizationse_A3b.pdf
+JN Karlin,Defining the lean logistics learning enterprise: Examples from Toyota's North American supply chain,"Page 1. DEFINING THE LEAN LOGISTICS LEARNING ENTERPRISE: EXAMPLES FROM
+TOYOTA'S NORTH AM ERICAN SUPPLY CHAIN by Jennifer Nicole Karlin … 154 IV. CREATING
+A LEAN LOGISTICS LEARNING ENTERPRISE: TOYOTA AND TRANSFREIGHT 155 … 
+",http://search.proquest.com/openview/61d28e4961c08edbf08645218815d670/1?pq-origsite=gscholar&cbl=18750&diss=y,

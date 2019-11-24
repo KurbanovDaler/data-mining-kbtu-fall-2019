@@ -28,10 +28,6 @@ for i in range(20):
     df = df.append({'Title' : pub.bib['title'].rstrip("\n\r"), 'Date': pub.bib['year'], 'Authors': pub.bib['author'].rstrip("\n\r"), 'Abstract': pub.bib['abstract'].rstrip("\n\r"), 'Url': pub.bib['url']} , ignore_index=True)
     print(pub.fill())
     # if 'eprint' in pub.bib:
-# df['Authors'].apply(lambda x: x.replace('\n', ' '))
-# df['Keywords'].apply(lambda x: x.replace('\n', ' '))
-# df['Abstract'].apply(lambda x: x.replace('\n', ' '))
-# df['Text'].apply(lambda x: x.replace('\n', ' '))
 print (df.head())
 
 df.to_csv('result.csv', index = False)
