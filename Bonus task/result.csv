@@ -1,0 +1,27 @@
+Title,Date,Authors,Keywords,Abstract,Text,Url
+Example,2012,Example,More than one,It be like that,Once upon a time....,https://www.sciencedirect.com/science/article/pii/S0898122112001113
+Machine learning in agent-based stochastic simulation: Inferential theory and evaluation in transportation logistics,2012,"Wojtusiak, Janusz and Warden, Tobias and Herzog, Otthein",,Multiagent-based simulation is an approach to realize stochastic simulation where both the behavior of the modeled multiagent system and dynamic aspects of its environment are implemented with autonomous agents. Such simulation provides an ideal environment for …,,https://www.sciencedirect.com/science/article/pii/S0898122112001113
+Improving cash logistics in bank branches by coupling machine learning and robust optimization,2018,"L{\'a}zaro, Jorge L{\'o}pez and Jim{\'e}nez, {\'A}lvaro Barbero and Takeda, Akiko",,"This paper describes how Machine Learning and Robust Optimization techniques can greatly improve cash logistics operations. Specifically, we seek to optimize the logistics followed by the different branches of a given bank. Machine Learning is used to forecast …",,https://www.sciencedirect.com/science/article/pii/S0957417417306474
+A machine learning approach for predicting delays in construction logistics,2015,"Asadi, Ahmad and Alsubaey, Mohammed and Makatsoris, Charalampos",,"Construction project management is vital for accomplishing pre-determined objectives. Despite using construction management, most of the projects do not meet original time schedule or has been delayed. Delay is one of the biggest problems faced by construction …",,https://www.tandfonline.com/doi/abs/10.1080/2287108X.2015.1059920
+Location selection of logistics center in e-commerce network environments,2017,"Chen, Baiyu and Wang, Biying",,"… order hierarchy to select suitable logistics centers. Keywords: Logistics Center
+Location, Cluster Analysis, Analytic Hierarchy Process, Neural Network, Machine
+Learning 1. Introduction The location of a logistics center refers … 
+",,http://article.ajnna.org/pdf/10.11648.j.ajnna.20170304.11.pdf
+Context aware process mining in logistics,2017,"Becker, Till and Intoyoad, Wacharawan",,"… Adding context awareness to unstructured event data in logistics has the potential to improve
+the results of Process Mining. Our research investigates how to apply context awareness based
+on Machine Learning in Process Mining for logistic processes and demonstrates its … 
+",,https://www.sciencedirect.com/science/article/pii/S2212827117303311
+The reverse logistics evaluation based on KPCA-LINMAP model,2006,"Zhang, Cai-qing and Lu, Yan-chao",,"According to the limitation of principal components analysis (PCA) in dealing with the nonlinear data, connecting with the linear programming techniques for multidimensional analysis of preference (LINMAP), this paper presents the kernel principal components …",,https://ieeexplore.ieee.org/abstract/document/4028490/
+Predicting Future Inbound Logistics Processes Using Machine Learning,2016,"Knoll, Dino and Pr{\""u}glmeier, Marco and Reinhart, Gunther",,"Manufacturing industry is highly affected by trends of globalization and increasing dynamics of product life-cycles which results in global supply chain networks. For inbound logistics, a high variance of parts from different suppliers and locations needs to be delivered to the …",,https://www.sciencedirect.com/science/article/pii/S2212827116308770
+Machine vision applications in agricultural food logistics,2013,"Wang, Lu and Tian, Xin and Li, Anyu and Li, Hanxiao",,"… Abstract—Agricultural food's logistics needs to be efficient and to provide assurance on the safety
+and quality of its products … extracted in local image patch is used as image feature and the Linear
+SVM (Support vector machine) is used for model learning, which provides … 
+",,https://ieeexplore.ieee.org/abstract/document/6961105/
+Digital twin as enabler for an innovative digital shopfloor management system in the ESB Logistics Learning Factory at Reutlingen-University,2017,"Brenner, Beate and Hummel, Vera",,"… Machine-learning, stream analytics, cognitive services, as well as interaction and information
+building blocks based on a changeable production concept in the self-controlled ESB Logistics
+Learning Factory [Fig 1] are some of the digital modules. Fig … 
+",,https://www.sciencedirect.com/science/article/pii/S2351978917301579
+From plant and logistics control to multi-enterprise collaboration,2006,"Nof, Shimon Y and Morel, G{\'e}rard and Monostori, Laszlo and Molina, Arturo and Filip, Florin",,"… In certain situations, more specifically, the methods also require machine learning (ML) techniques
+(Morel & Grabot, 2003 … Research also needs to address information handling in sophisticated
+IMLS, Intelligent manufacturing and Logistics Systems designs, with trace-ability as a … 
+",,https://www.sciencedirect.com/science/article/pii/S136757880600006X
