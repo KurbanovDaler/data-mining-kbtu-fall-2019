@@ -125,8 +125,11 @@ for text in df['text']: #tqdm(df['text']):
     keywords.append(append2_words)
     # keywords.append(top2_df.iloc[0])
     # keywords.append(top3_df.iloc[1])
-    print (keywords)
-    res.append(keywords)    
+    flattened_keywords = [y for x in keywords for y in x]
+    print (flattened_keywords)
+    res.append(flattened_keywords)
+    print (res)
+    break
 
 # tokenized_text=sent_tokenize(text)
 # print(tokenized_text)
