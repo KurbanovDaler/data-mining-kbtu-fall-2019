@@ -62,11 +62,29 @@ df = pd.read_csv('result3.csv')
 stop_words=set(stopwords.words("english"))
 # print(stop_words)
 res = []
-for text in df['text']: #tqdm(df['text']):    
-    keywords = []    
+# for i in range(5):
+#     print(df.loc[i].iloc[3])
+for i in tqdm(range(300)):
+# for text in df['text']: #tqdm(df['text']):
+    ngram = 5    
+    text = df.loc[i].iloc[3]
+    if pd.isna(text):
+        text = "NO TEXT FOUND"
+        df.loc[i].iloc[3]  = "NO TEXT FOUND"
+    # print(df.loc[i].iloc[1])
+    keywords = []
     if text == "NO TEXT FOUND":
-        res.append('NO KEYWORDS YET')
-        continue       
+        text = df.loc[i].iloc[2]
+        ngram = 3
+        if pd.isna(text):
+            text = "NO TEXT FOUND"
+            df.loc[i].iloc[2]  = "NO ABSTRACT FOUND"
+            res.append('NO KEYWORDS FOUND')
+            continue
+    # print(text)
+    # if len(text) < 8:
+    #     res.append('No keywords found')
+    #     continue
     tokenized_sent=word_tokenize(text)
     # print(tokenized_sent)
 
@@ -86,28 +104,38 @@ for text in df['text']: #tqdm(df['text']):
         lemmatized_words.append(lem.lemmatize(w))
     # print("Filtered Sentence:",filtered_sent)
     # print("Lemmatized Sentence:",lemmatized_words)
-    print(len(lemmatized_words))
-    cv=CountVectorizer(max_df=0.8,stop_words=stop_words, max_features=10000, ngram_range=(1,3))
-    X=cv.fit_transform(lemmatized_words)
-    list(cv.vocabulary_.keys())[:10]
+    # print(len(lemmatized_words))
+    try:
+        cv=CountVectorizer(max_df=0.8,stop_words=stop_words, max_features=10000, ngram_range=(1,3))
+        X=cv.fit_transform(lemmatized_words)
+    except:
+        res.append('NO KEYWORDS FOUND')
+        continue
+    # print(len(list(cv.vocabulary_.keys())))
+    # print(list(cv.vocabulary_.keys()))
+    try:
+        top_words = get_top_n_words(lemmatized_words, n=ngram)
+        top_df = pd.DataFrame(top_words)
+        top_df.columns=["Word", "Freq"]
+    except:
+        top_words = [('NO KEYWORDS FOUND', 1)]
+    # print(top_df)
     
-    top_words = get_top_n_words(lemmatized_words, n=5)
-    top_df = pd.DataFrame(top_words)
-    top_df.columns=["Word", "Freq"]
-    print(top_df)
-    
-    sns.set(rc={'figure.figsize':(13,8)})
-    g = sns.barplot(x="Word", y="Freq", data=top_df)
-    g.set_xticklabels(g.get_xticklabels(), rotation=30)
+    # sns.set(rc={'figure.figsize':(13,8)})
+    # g = sns.barplot(x="Word", y="Freq", data=top_df)
+    # g.set_xticklabels(g.get_xticklabels(), rotation=30)
 
-    top2_words = get_top_n2_words(lemmatized_words, n=5)
-    top2_df = pd.DataFrame(top2_words)
-    top2_df.columns=["Bi-gram", "Freq"]
-    print(top2_df)
+    try:
+        top2_words = get_top_n2_words(lemmatized_words, n=ngram)
+        top2_df = pd.DataFrame(top2_words)
+        top2_df.columns=["Bi-gram", "Freq"]
+    except:
+        top2_words = [('', 1)]
+    # print(top2_df)
     
-    sns.set(rc={'figure.figsize':(13,8)})
-    h=sns.barplot(x="Bi-gram", y="Freq", data=top2_df)
-    h.set_xticklabels(h.get_xticklabels(), rotation=45)
+    # sns.set(rc={'figure.figsize':(13,8)})
+    # h=sns.barplot(x="Bi-gram", y="Freq", data=top2_df)
+    # h.set_xticklabels(h.get_xticklabels(), rotation=45)
 
     # top3_words = get_top_n3_words(lemmatized_words, n=5)
     # top3_df = pd.DataFrame(top3_words)
@@ -126,10 +154,14 @@ for text in df['text']: #tqdm(df['text']):
     # keywords.append(top2_df.iloc[0])
     # keywords.append(top3_df.iloc[1])
     flattened_keywords = [y for x in keywords for y in x]
-    print (flattened_keywords)
-    res.append(flattened_keywords)
-    print (res)
-    break
+    listToStr = ' '.join([str(elem) for elem in flattened_keywords])
+    # print (flattened_keywords)
+    res.append(listToStr)
+    # print (res)
+    # break
 
 # tokenized_text=sent_tokenize(text)
-# print(tokenized_text)
+print(len(res))
+
+df.insert(3, 'keywords', res, True)
+df.to_csv('final_result.csv', index = False)
