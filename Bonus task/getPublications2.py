@@ -10,16 +10,11 @@ date = []
 url = []
 eprint = []
 date = []
-for i in tqdm(range(300)):
+for i in tqdm(range(400)):
     publication = next(search)
-    time.sleep(5)
-    publication.fill()    
-#     try:
-#         s = BeautifulSoup(requests.get(publication.url_scholarbib).text, 'html.parser')
-#         year = re.search(r'year={(\d*?\d*?\d{4})}', s.text)
-#         date.append(int(year[1]))
-#     except:
-#         date.append(np.NaN)\
+    # time.sleep(5)
+    # publication.fill()    
+    # print(publication.bib.get('year'))
     date.append(publication.bib.get('year'))
     author.append(publication.bib.get('author'))
     title.append(publication.bib.get('title'))

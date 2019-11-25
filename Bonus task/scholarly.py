@@ -159,14 +159,17 @@ class Publication(object):
                 self.bib['url'] = title.find('a')['href']
             authorinfo = databox.find('div', class_='gs_a')
             self.bib['author'] = ' and '.join([i.strip() for i in authorinfo.text.split(' - ')[0].split(',')])
+            # print(authorinfo.text.split(' - ')[1][-4:])
+            # self.bib['year'] = authorinfo.text.split(' - ')[1].split(',')[1]
+            self.bib['year'] = authorinfo.text.split(' - ')[1][-4:]
             if databox.find('div', class_='gs_rs'):
                 self.bib['abstract'] = databox.find('div', class_='gs_rs').text
                 if self.bib['abstract'][0:8].lower() == 'abstract':
                     self.bib['abstract'] = self.bib['abstract'][9:].strip()
             lowerlinks = databox.find('div', class_='gs_fl').find_all('a')
             for link in lowerlinks:
-                if 'Import into BibTeX' in link.text:
-                # if 'BibTeX に取り込む' in link.text:
+                # if 'Import into BibTeX' in link.text:
+                if 'BibTeX に取り込む' in link.text:
                     self.url_scholarbib = link['href']
                 if 'Cited by' in link.text:
                     self.citedby = int(re.findall(r'\d+', link.text)[0])

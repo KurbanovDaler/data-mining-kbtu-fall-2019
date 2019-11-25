@@ -64,7 +64,7 @@ stop_words=set(stopwords.words("english"))
 res = []
 # for i in range(5):
 #     print(df.loc[i].iloc[3])
-for i in tqdm(range(300)):
+for i in tqdm(range(400)):
 # for text in df['text']: #tqdm(df['text']):
     ngram = 5    
     text = df.loc[i].iloc[3]
